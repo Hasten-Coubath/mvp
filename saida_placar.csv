@@ -1,0 +1,70 @@
+grau,motivo,titulo_id,valor_evitado
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP430214,9006.36
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP430643,18321.0
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP430642,18321.0
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP430641,18321.0
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP430910,14893.92
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP431052,16089.67
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP431149,1299.95
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP431303,5226.09
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP431304,5226.09
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP431588,3858.76
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP431661,3914.59
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP431662,3914.59
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP432111,5434.98
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP432127,1611.33
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP432274,9121.78
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP432671,3695.52
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP432670,3695.52
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP432849,5053.22
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP432848,5053.22
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP433013,5395.64
+A. Comprovado,"Duplicidade em aberto, fora da janela (vence 16/11 a 14/01)",TP433014,5395.63
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP429865,2503.87
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP430006,4750.0
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP430213,9006.36
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP431660,3914.6
+B. Evidência forte de golpe,Boleto com CNPJ de outra empresa,TP431754,11740.0
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP432119,9990.21
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP432273,9121.78
+A. Comprovado,Excesso de valor sobre a NF (zero a mais),TP431459,43542.0
+A. Comprovado,Excesso de valor sobre a NF (zero a mais),TP431775,81786.42
+C. Aguardando confirmação,Retido: sem obrigacao,TP431946,9870.5
+A. Comprovado,Já pago por fora do lote (está no extrato),TP432863,27134.8
+C. Aguardando confirmação,Retido: oc cancelada,TP433196,14215.0
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP428844,17994.83
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP428909,19852.77
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP428928,16927.55
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP430389,841.58
+A. Comprovado,Excesso de valor sobre a NF (zero a mais),TP431536,6904.08
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP432126,1611.33
+A. Comprovado,Já pago por fora do lote (está no extrato),TP432865,59597.64
+C. Aguardando confirmação,Retido: sem obrigacao,TP432337,12380.0
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP432669,3695.52
+A. Comprovado,Já pago por fora do lote (está no extrato),TP432992,72436.61
+A. Comprovado,Duplicidade (obrigação já paga ou reservada),TP432847,5053.22
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431502,1180.86
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432024,1935.75
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431243,6232.56
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431429,1751.52
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432037,6647.27
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431762,2003.67
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432130,96480.0
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431396,3623.25
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431479,6297.4
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431834,5609.13
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432025,1935.73
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431503,1180.86
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431244,6232.56
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431430,1751.52
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431763,2003.66
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432166,4586.94
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432387,8656.53
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432434,5583.78
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432698,3494.35
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432709,5654.04
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431397,3623.25
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP431480,6297.4
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432445,8242.56
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432555,664.01
+B. Evidência forte de golpe,Conta trocada sem confirmação (pagos em dia na conta anterior),TP432616,2771.48

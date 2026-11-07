@@ -1,0 +1,898 @@
+lote,titulo_id,fornecedor_id,valor,livro,chave,destino,motivo_destino,tres_vias,motivo_tres_vias,acao
+varredura,TP430214,FP7908,9006.36,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP430643,FP7908,18321.0,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP430642,FP7908,18321.0,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP430641,FP7908,18321.0,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP430910,FP3071,14893.92,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP431052,FP2838,16089.67,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP431149,FP1179,1299.95,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP431303,FP7908,5226.09,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP431304,FP7908,5226.09,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP431588,FP2685,3858.76,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP431661,FP2838,3914.59,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP431662,FP2838,3914.59,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP432111,FP5940,5434.98,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP432127,FP5940,1611.33,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP432274,FP3351,9121.78,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP432671,FP2532,3695.52,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP432670,FP2532,3695.52,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP432849,FP3549,5053.22,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP432848,FP3549,5053.22,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP433013,FP5601,5395.64,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+varredura,TP433014,FP5601,5395.63,DUPLICADO_EM_ABERTO,,,,,,cancelado_duplicidade_em_aberto
+RM20261103-MER,TP426904,FP6026,9469.16,OK,NF|63770741|5916|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP426988,FP6026,15264.46,OK,NF|63770741|5887|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP427070,FP4999,6733.52,OK,NF|71659118|63268|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP427120,FP4999,27458.75,OK,NF|71659118|63254|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP427133,FP6212,14256.85,OK,NF|13030916|93434|4,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP428241,FP4999,10367.47,OK,NF|71659118|63649|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP428320,FP2838,19568.97,OK,NF|97646186|70228|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP428333,FP2838,20495.4,OK,NF|97646186|70236|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP428366,FP6212,12691.87,OK,NF|13030916|93833|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP428377,FP7908,17406.0,OK,NF|85779751|10943|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP428417,FP3800,20224.34,OK,NF|44573563|10795|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP428577,FP2838,7815.02,OK,NF|97646186|70247|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP428621,FP6212,24610.09,OK,NF|13030916|93860|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429669,FP2838,18209.71,OK,NF|97646186|70664|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429725,FP6212,8000.33,OK,NF|13030916|94274|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429750,FP5940,9584.28,OK,NF|27080090|32030|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429774,FP3302,2544.67,OK,NF|40572902|35563|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429794,FP2685,1547.55,OK,NF|56659033|86734|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429796,FP5940,2503.87,OK,NF|27080090|32057|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429803,FP2832,977.28,OK,NF|69683644|41330|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429815,FP1748,3239.46,OK,NF|60360748|8981|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429834,FP6357,4750.0,OK,NF|52759405|20329|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429850,FP4999,34380.38,OK,NF|71659118|63988|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429855,FP3800,49629.72,OK,NF|44573563|11100|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429862,FP7908,9006.36,OK,NF|85779751|11275|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429865,FP5940,2503.87,JA_CONSUMIDA,NF|27080090|32057|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261103-MER,TP429883,FP3800,23124.65,OK,NF|44573563|11094|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429908,FP3549,4664.1,OK,NF|38055876|23739|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429927,FP2838,8988.42,OK,NF|97646186|70743|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429931,FP6212,12002.76,OK,NF|13030916|94293|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429937,FP3172,8812.68,OK,NF|14343478|65972|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429940,FP3113,2664.37,OK,NF|90331547|36255|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429948,FP1748,6361.79,OK,NF|60360748|8961|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429955,FP5601,3536.27,OK,NF|25750628|73184|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429961,FP3549,6429.24,OK,NF|38055876|23777|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429973,FP2838,26011.43,OK,NF|97646186|70713|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429983,FP2685,3348.62,OK,NF|56659033|86812|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429986,FP6357,650.45,OK,NF|52759405|20305|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429988,FP3614,5777.69,OK,NF|15924488|3869|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP429997,FP3172,2560.58,OK,NF|14343478|66001|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430002,FP4999,17380.71,OK,NF|71659118|63978|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430006,FP6357,4750.0,JA_CONSUMIDA,NF|52759405|20329|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261103-MER,TP430015,FP4999,15826.81,OK,NF|71659118|63928|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430018,FP2838,22745.65,OK,NF|97646186|70783|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430030,FP2532,4254.58,OK,NF|92385683|73114|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430038,FP2838,9876.44,OK,NF|97646186|70709|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430056,FP2237,12790.36,OK,NF|21956571|59475|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430062,FP3172,5986.06,OK,NF|14343478|66044|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430075,FP5940,4862.99,OK,NF|27080090|32058|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430079,FP3071,7949.75,OK,NF|22303923|14702|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430081,FP4999,19687.31,OK,NF|71659118|63952|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430112,FP6026,7835.19,OK,NF|63770741|6485|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430136,FP1179,2315.16,OK,NF|64747211|46996|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430138,FP7908,3892.81,OK,NF|85779751|11317|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430149,FP6118,1669.84,OK,NF|30855541|40075|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430195,FP4595,9812.78,OK,NF|15913646|35645|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430203,FP3800,12859.55,OK,NF|44573563|11127|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430213,FP7908,9006.36,JA_CONSUMIDA,NF|85779751|11275|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261103-MER,TP430276,FP2838,37212.96,OK,NF|97646186|70748|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430736,FP1602,12691.18,OK,NF|98998333|63261|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430763,FP3549,2504.84,OK,NF|38055876|23986|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430787,FP1262,1256.39,OK,NF|59641174|62707|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430801,FP1602,2707.03,OK,NF|98998333|63265|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430901,FP3549,4223.21,OK,NF|38055876|23997|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430920,FP3071,1791.92,OK,NF|22303923|14844|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP430949,FP2532,1990.85,OK,NF|92385683|73262|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431091,FP6799,3414.92,OK,NF|86532498|49232|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431132,FP1262,1483.83,OK,NF|59641174|62787|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431169,FP1748,2351.05,OK,NF|60360748|9241|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431205,FP1602,3112.12,OK,NF|98998333|63333|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431234,FP1748,27710.86,OK,NF|60360748|9238|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431276,FP1602,2845.69,OK,NF|98998333|63349|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431284,FP2832,3890.48,OK,NF|69683644|41532|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431293,FP3071,1155.3,OK,NF|22303923|14910|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431344,FP2685,4205.26,OK,NF|56659033|87052|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431346,FP3800,5420.61,OK,NF|44573563|11366|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431352,FP5114,84610.0,OK,NF|78248555|92750|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431355,FP2532,3827.86,OK,NF|92385683|73406|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431357,FP4999,15902.22,OK,NF|71659118|64384|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431363,FP2532,3997.47,OK,NF|92385683|73434|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431365,FP6212,6024.41,OK,NF|13030916|94693|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431391,FP3800,14684.47,OK,NF|44573563|11367|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431400,FP6212,5357.23,OK,NF|13030916|94723|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431404,FP6118,5485.52,OK,NF|30855541|40244|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431423,FP3351,3323.7,OK,NF|87274403|48941|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431425,FP6026,37690.27,OK,NF|63770741|6774|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431434,FP2227,18820.0,OK,NF|58826093|48448|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431439,FP3800,14926.6,OK,NF|44573563|11404|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431443,FP2685,1969.65,OK,NF|56659033|87154|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431456,FP5601,3259.85,OK,NF|25750628|73326|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431465,FP4999,6234.51,OK,NF|71659118|64395|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431485,FP3351,1275.48,OK,NF|87274403|48980|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431491,FP5601,417.18,OK,NF|25750628|73301|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431502,FP4615,1180.86,OK,NF|85990602|77811|2,DESTINO_SUSPEITO,troca sem confirmação registrada,OK,OC aprovada e NF dentro da tolerância,conta_revertida_e_reagendado
+RM20261103-MER,TP431504,FP5940,2854.5,OK,NF|27080090|32401|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431511,FP6357,2168.99,OK,NF|52759405|20570|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431513,FP5525,5904.95,OK,NF|31255237|54065|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431517,FP2685,11710.88,OK,NF|56659033|87109|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431525,FP1262,4883.37,OK,NF|59641174|62791|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431527,FP2838,3914.6,OK,NF|97646186|71109|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431530,FP3800,16931.87,OK,NF|44573563|11391|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431535,FP1602,767.12,OK,NF|98998333|63473|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431541,FP4999,21305.47,OK,NF|71659118|64358|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431544,FP4999,12263.34,OK,NF|71659118|64374|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431550,FP3345,7633.2,OK,NF|98289709|59514|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431562,FP2532,8874.59,OK,NF|92385683|73453|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431574,FP7908,15187.09,OK,NF|85779751|11621|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431582,FP7908,8237.64,OK,NF|85779751|11634|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431585,FP3302,5306.73,OK,NF|40572902|35891|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431589,FP2832,9513.64,OK,NF|69683644|41546|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431590,FP6799,1028.61,OK,NF|86532498|49336|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431593,FP2237,7272.1,OK,NF|21956571|59636|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431597,FP4533,3114.6,OK,NF|75690784|93095|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431599,FP3614,5074.67,OK,NF|15924488|4037|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431601,FP5940,5992.01,OK,NF|27080090|32355|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431603,FP2532,9564.44,OK,NF|92385683|73461|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431607,FP6118,12317.91,OK,NF|30855541|40255|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431608,FP6212,11112.64,OK,NF|13030916|94705|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431612,FP6212,15682.17,OK,NF|13030916|94736|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431618,FP3071,3048.82,OK,NF|22303923|14980|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431620,FP3302,2062.86,OK,NF|40572902|35898|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431623,FP2838,11645.18,OK,NF|97646186|71158|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431625,FP2838,14698.1,OK,NF|97646186|71083|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431630,FP5601,9376.71,OK,NF|25750628|73382|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431636,FP4533,14015.01,OK,NF|75690784|93132|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431638,FP3302,4521.13,OK,NF|40572902|35972|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431639,FP2838,31619.55,OK,NF|97646186|71149|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431642,FP6026,11513.38,OK,NF|63770741|6729|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431646,FP1262,8821.09,OK,NF|59641174|62883|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431647,FP3800,10622.93,OK,NF|44573563|11430|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431651,FP2685,2991.6,OK,NF|56659033|87193|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431660,FP2838,3914.6,JA_CONSUMIDA,NF|97646186|71109|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261103-MER,TP431666,FP5525,1840.91,OK,NF|31255237|54083|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431669,FP6026,15733.1,OK,NF|63770741|6745|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431675,FP6799,3248.16,OK,NF|86532498|49332|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431690,FP3071,8560.47,OK,NF|22303923|14998|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431691,FP7908,40547.71,OK,NF|85779751|11694|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431695,FP3800,93777.87,OK,NF|44573563|11469|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431706,FP4345,8719.47,OK,NF|20623234|57254|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431715,FP5940,3754.91,OK,NF|27080090|32436|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431717,FP1602,4179.18,OK,NF|98998333|63476|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431724,FP1748,5133.62,OK,NF|60360748|9277|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431727,FP7908,19831.72,OK,NF|85779751|11722|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431731,FP3345,5665.13,OK,NF|98289709|59529|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431732,FP6357,2134.26,OK,NF|52759405|20541|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431745,FP5079,761.39,OK,NF|74149911|38569|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431748,FP3549,5728.29,OK,NF|38055876|24227|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431754,FP4345,11740.0,OK,NF|20623234|57551|1,DESTINO_SUSPEITO,beneficiário com CNPJ de outra empresa (61.525.615/0001-26); boleto não registrado na DDA contra o CNPJ do Gogroup; conta de cobrança 368/4519/08990426 nunca usada por este fornecedor e boleto fora da DDA (possível segunda via adulterada),OK,OC aprovada e NF dentro da tolerância,retido_destino_suspeito
+RM20261103-MER,TP431755,FP6357,5341.51,OK,NF|52759405|20567|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431760,FP3302,6911.3,OK,NF|40572902|35968|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431783,FP1602,730.35,OK,NF|98998333|63485|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431786,FP3071,11675.13,OK,NF|22303923|15009|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431805,FP2685,4630.7,OK,NF|56659033|87180|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431806,FP2237,6740.13,OK,NF|21956571|59649|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431814,FP6118,9340.48,OK,NF|30855541|40270|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431815,FP3302,21192.71,OK,NF|40572902|35931|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431823,FP3071,2297.71,OK,NF|22303923|15031|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431833,FP6799,7669.41,OK,NF|86532498|49383|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431840,FP5940,4476.16,OK,NF|27080090|32423|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431848,FP6357,23929.1,OK,NF|52759405|20596|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431855,FP6212,25061.47,OK,NF|13030916|94294|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431870,FP3800,20902.78,OK,NF|44573563|11549|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431888,FP6026,29754.85,OK,NF|63770741|6815|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431890,FP1262,6901.27,OK,NF|59641174|62912|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431891,FP3172,11804.38,OK,NF|14343478|66338|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431899,FP3800,50332.93,OK,NF|44573563|11447|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431955,FP4999,12466.22,OK,NF|71659118|64420|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP431990,FP5079,16979.13,OK,NF|74149911|38609|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432017,FP3172,2581.84,OK,NF|14343478|66325|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432024,FP4615,1935.75,OK,NF|85990602|77904|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432029,FP5601,3716.22,OK,NF|25750628|73333|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432031,FP5079,2058.59,OK,NF|74149911|38580|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432060,FP3172,3910.14,OK,NF|14343478|66319|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432094,FP1262,1260.61,OK,NF|59641174|62918|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432101,FP5601,10457.69,OK,NF|25750628|73358|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432365,FP6624,33074.23,OK,NF|72632502|82193|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432366,FP6643,11897.06,OK,NF|28303375|24810|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432367,FP3277,39066.37,OK,NF|48694441|84340|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432368,FP6624,29634.82,OK,NF|72632502|82187|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432369,FP6624,33989.15,OK,NF|72632502|82188|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432371,FP6624,52128.46,OK,NF|72632502|82215|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432374,FP3062,16935.31,OK,NF|58917762|17208|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432490,FP6624,18419.85,OK,NF|72632502|82224|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432491,FP3062,19141.32,OK,NF|58917762|17223|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432593,FP4939,53272.34,OK,NF|97776852|59700|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432595,FP4939,29790.92,OK,NF|97776852|59724|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432705,FP8886,17150.0,OK,NF|15701848|80145|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432724,FP3549,4303.5,OK,NF|38055876|24211|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432732,FP3614,1267.66,OK,NF|15924488|4045|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432897,FP7608,7300.0,OK,NF|65188088|10585|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP432912,FP9066,5800.0,OK,NF|15158165|6979|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-MER,TP433110,FP8886,3800.0,OK,NF|15701848|80147|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP431677,FP4977,13165.68,OK,NF|49102883|66514|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP431702,FP1710,27990.0,OK,NF|48258547|4300|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP431716,FP1710,37670.0,OK,NF|48258547|4271|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP432788,FP7383,10450.0,OK,NF|40478716|48679|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP432886,FP9695,5300.0,OK,NF|87904010|49817|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP432922,FP9105,4150.0,OK,NF|95581280|90925|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP432948,FP9988,2050.0,OK,NF|41419532|84042|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP432969,FP9105,21950.0,OK,NF|95581280|90930|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP432996,FP8027,5100.0,OK,NF|73984431|75229|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP433064,FP9611,900.0,OK,NF|76787548|15586|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP433080,FP8819,6200.0,OK,NF|35421444|47891|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP433138,FP9518,3250.0,OK,NF|78226779|91068|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP433213,FP7728,3150.0,OK,NF|12521424|60591|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP433244,FP7124,7900.0,OK,NF|38405024|3113|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261103-LIT,TP433275,FP9105,9900.0,OK,NF|95581280|90919|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP427125,FP6212,37775.85,OK,NF|13030916|93460|4,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP428492,FP2838,13270.13,OK,NF|97646186|70252|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP428509,FP3800,28791.13,OK,NF|44573563|10817|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP428530,FP6212,7374.48,OK,NF|13030916|93876|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP428541,FP7908,10660.86,OK,NF|85779751|10971|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP428548,FP7908,7064.82,OK,NF|85779751|10962|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP428585,FP3800,2506.76,OK,NF|44573563|10843|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP428642,FP7908,9555.31,OK,NF|85779751|10979|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP430091,FP3800,16407.37,OK,NF|44573563|11132|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP430885,FP3071,990.33,OK,NF|22303923|14847|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP430914,FP1262,2041.81,OK,NF|59641174|62748|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP430936,FP5079,3972.94,OK,NF|74149911|38328|3,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP430959,FP5525,2674.1,OK,NF|31255237|54017|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP430962,FP5079,5011.74,OK,NF|74149911|38370|3,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP430997,FP5079,2290.33,OK,NF|74149911|38352|3,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431000,FP1748,4012.0,OK,NF|60360748|9157|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431061,FP1748,5261.11,OK,NF|60360748|9173|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431065,FP3549,1516.51,OK,NF|38055876|24084|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431108,FP5525,5446.3,OK,NF|31255237|53988|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431118,FP3113,2595.86,OK,NF|90331547|36402|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431212,FP2532,2610.28,OK,NF|92385683|73298|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431243,FP4615,6232.56,OK,NF|85990602|77839|2,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431325,FP3172,1346.27,OK,NF|14343478|66267|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431335,FP5079,1414.31,OK,NF|74149911|38466|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431389,FP2685,4737.83,OK,NF|56659033|87073|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431418,FP1602,10476.33,OK,NF|98998333|63373|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431429,FP4615,1751.52,OK,NF|85990602|77868|2,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431453,FP4595,9586.02,OK,NF|15913646|35856|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431509,FP6357,1275.72,OK,NF|52759405|20574|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431521,FP1748,6641.87,OK,NF|60360748|9271|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431539,FP5525,1087.57,OK,NF|31255237|54060|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431571,FP2832,1178.83,OK,NF|69683644|41574|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431580,FP1179,3128.19,OK,NF|64747211|47173|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431595,FP4533,9350.48,OK,NF|75690784|93123|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431631,FP3388,5668.63,OK,NF|95795412|75828|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431634,FP3302,240.64,VALOR_ABAIXO,NF|40572902|35957|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,analista_corrige_abaixo
+RM20261104-MER,TP431654,FP7908,5298.02,OK,NF|85779751|11670|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431674,FP4533,9986.71,OK,NF|75690784|93154|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431742,FP2838,20272.61,OK,NF|97646186|71147|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431749,FP6799,9419.42,OK,NF|86532498|49363|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431751,FP5525,8763.33,OK,NF|31255237|54147|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431758,FP2838,14863.07,OK,NF|97646186|71201|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431781,FP3351,9121.78,OK,NF|87274403|48995|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431790,FP3388,10192.85,OK,NF|95795412|75945|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431791,FP2532,9905.71,OK,NF|92385683|73470|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431792,FP6026,26669.78,OK,NF|63770741|6787|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431802,FP3113,3111.75,OK,NF|90331547|36495|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431817,FP6026,34206.93,OK,NF|63770741|6863|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431829,FP3800,6111.33,OK,NF|44573563|11462|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431841,FP3071,1932.04,OK,NF|22303923|15052|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431857,FP3071,9269.63,OK,NF|22303923|15066|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431858,FP4595,9833.82,OK,NF|15913646|35952|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431863,FP3388,4116.94,OK,NF|95795412|75926|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431866,FP2832,3564.16,OK,NF|69683644|41596|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431872,FP4533,11714.85,OK,NF|75690784|93178|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431885,FP6799,2258.47,OK,NF|86532498|49402|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431893,FP3113,3509.93,OK,NF|90331547|36493|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431901,FP3614,11927.27,OK,NF|15924488|4047|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431903,FP5940,17877.28,OK,NF|27080090|32448|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431910,FP2237,2287.72,OK,NF|21956571|59699|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431934,FP1748,2276.67,OK,NF|60360748|9183|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431935,FP5525,2533.83,OK,NF|31255237|54110|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431947,FP5601,2184.68,OK,NF|25750628|73389|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP431957,FP1262,4717.76,OK,NF|59641174|62920|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432001,FP2237,2412.02,OK,NF|21956571|59678|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432002,FP1602,9194.36,OK,NF|98998333|63547|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432003,FP5940,3462.93,OK,NF|27080090|32472|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432037,FP4615,6647.27,OK,NF|85990602|77919|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432039,FP1602,5871.53,OK,NF|98998333|63522|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432046,FP2685,4264.43,OK,NF|56659033|87203|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432053,FP5079,2367.51,OK,NF|74149911|38610|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432064,FP6799,12223.07,OK,NF|86532498|49394|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432069,FP7908,19673.35,OK,NF|85779751|11755|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432072,FP3351,13323.09,OK,NF|87274403|49000|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432073,FP3113,6334.92,OK,NF|90331547|36520|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432119,FP4533,9990.21,JA_CONSUMIDA,NF|75690784|93154|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261104-MER,TP432129,FP3614,1967.56,OK,NF|15924488|4063|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432132,FP2237,13554.81,OK,NF|21956571|59685|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432162,FP3071,9750.06,OK,NF|22303923|15068|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432168,FP3388,6522.02,OK,NF|95795412|75901|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432211,FP5525,15908.16,OK,NF|31255237|54130|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432273,FP3351,9121.78,JA_CONSUMIDA,NF|87274403|48995|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261104-MER,TP432594,FP3062,20498.33,OK,NF|58917762|17243|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432660,FP3062,25454.75,OK,NF|58917762|17242|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432661,FP6624,37529.92,OK,NF|72632502|82251|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432662,FP4939,50848.19,OK,NF|97776852|59737|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432663,FP6624,36931.37,OK,NF|72632502|82283|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432664,FP3062,61762.26,OK,NF|58917762|17272|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432665,FP6624,39336.85,OK,NF|72632502|82267|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-MER,TP432942,FP1748,8331.67,OK,NF|60360748|9313|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-LIT,TP431663,FP6335,1191.9,OK,NF|51862882|46921|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261104-LIT,TP431787,FP6660,8512.55,OK,NF|79558476|94362|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP427095,FP6026,5055.08,OK,NF|63770741|5929|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP428465,FP7908,13578.23,OK,NF|85779751|10991|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP428468,FP6212,9913.24,OK,NF|13030916|93901|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP428488,FP3800,25474.13,OK,NF|44573563|10872|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP428601,FP2838,10378.11,OK,NF|97646186|70302|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP428937,FP6212,18036.84,OK,NF|13030916|93885|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP430248,FP6212,18919.99,OK,NF|13030916|94297|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP430282,FP7908,5749.5,OK,NF|85779751|11012|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP430363,FP7908,21470.61,OK,NF|85779751|11342|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431029,FP4595,2986.95,OK,NF|15913646|35853|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431057,FP2532,1791.79,OK,NF|92385683|73299|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431081,FP1602,1330.38,OK,NF|98998333|63310|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431114,FP3549,2242.24,OK,NF|38055876|24118|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431161,FP5079,1451.8,OK,NF|74149911|38411|3,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431173,FP3172,2926.98,OK,NF|14343478|66238|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431241,FP3549,1553.12,OK,NF|38055876|24104|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431300,FP1262,2246.34,OK,NF|59641174|62848|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431328,FP3172,1385.75,OK,NF|14343478|66273|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431459,FP1262,48380.0,VALOR_ACIMA,NF|59641174|62851|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,valor_corrigido_e_reagendado
+RM20261105-MER,TP431462,FP5079,3071.04,OK,NF|74149911|38484|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431579,FP5574,15970.0,OK,NF|72052974|84104|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431614,FP7908,5062.13,OK,NF|85779751|11719|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431699,FP3800,15653.78,OK,NF|44573563|11535|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431703,FP3172,5389.19,OK,NF|14343478|66328|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431711,FP6026,8811.21,OK,NF|63770741|6823|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431741,FP6650,19290.0,OK,NF|17668769|78825|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431762,FP4615,2003.67,OK,NF|85990602|77939|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431774,FP6357,16716.33,OK,NF|52759405|20620|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431795,FP3800,22366.85,OK,NF|44573563|11623|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431810,FP3388,3333.35,OK,NF|95795412|75972|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431826,FP3549,3325.1,OK,NF|38055876|24231|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431844,FP2237,9182.82,OK,NF|21956571|59760|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431845,FP3549,4334.37,OK,NF|38055876|24252|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431861,FP1602,4809.43,OK,NF|98998333|63511|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431873,FP1262,1825.26,OK,NF|59641174|62930|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431896,FP4999,11676.26,OK,NF|71659118|64435|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431911,FP3800,6885.4,OK,NF|44573563|11557|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431938,FP3113,3364.85,OK,NF|90331547|36539|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431948,FP1190,21930.0,OK,NF|21922862|4007|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431961,FP3800,9584.65,OK,NF|44573563|11497|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431967,FP5836,17320.0,OK,NF|49270558|32481|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431971,FP6357,6180.52,OK,NF|52759405|20629|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431986,FP2237,3585.19,OK,NF|21956571|59728|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP431989,FP3614,1291.31,OK,NF|15924488|4089|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432005,FP1262,5179.8,OK,NF|59641174|62925|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432008,FP3388,4322.98,OK,NF|95795412|75855|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432011,FP1748,3029.76,OK,NF|60360748|9363|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432020,FP3302,4568.31,OK,NF|40572902|35985|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432021,FP2838,10578.96,OK,NF|97646186|71204|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432034,FP6212,8193.17,OK,NF|13030916|94763|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432045,FP1179,12687.39,OK,NF|64747211|47236|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432071,FP6357,10616.65,OK,NF|52759405|20651|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432082,FP5079,5921.27,OK,NF|74149911|38628|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432085,FP3800,12983.48,OK,NF|44573563|11522|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432098,FP5525,1102.5,OK,NF|31255237|54155|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432109,FP1748,8356.1,OK,NF|60360748|9335|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432117,FP4345,12996.56,OK,NF|20623234|57262|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432130,FP4615,96480.0,OK,NF|85990602|78418|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432131,FP2532,11668.24,OK,NF|92385683|73493|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432145,FP6118,974.83,OK,NF|30855541|40327|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432173,FP3351,18602.88,OK,NF|87274403|49024|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432179,FP7908,18626.09,OK,NF|85779751|11789|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432226,FP1748,15239.69,OK,NF|60360748|9387|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432235,FP6118,14207.48,OK,NF|30855541|40299|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432241,FP3351,27549.09,OK,NF|87274403|49011|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432270,FP4595,2997.38,OK,NF|15913646|35984|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432350,FP3549,4322.71,OK,NF|38055876|24246|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432767,FP3277,33573.9,OK,NF|48694441|84400|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432768,FP3277,18608.46,OK,NF|48694441|84389|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432769,FP3277,18663.06,OK,NF|48694441|84346|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432770,FP4939,39280.97,OK,NF|97776852|59748|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432771,FP6643,37578.52,OK,NF|28303375|24843|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432772,FP3277,35738.11,OK,NF|48694441|84366|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432773,FP4939,51283.28,OK,NF|97776852|59741|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432775,FP3062,24492.73,OK,NF|58917762|17296|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432777,FP6643,17715.92,OK,NF|28303375|24818|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432778,FP3277,18839.35,OK,NF|48694441|84369|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432779,FP6624,68871.54,OK,NF|72632502|82311|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432810,FP4202,1614.48,OK,NF|95604820|31829|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432883,FP6572,218000.0,OK,CT|FP6572|11/2026,OK,"boleto do fornecedor, banco habitual, valor confere",OK,categoria dispensada de OC,segue
+RM20261105-MER,TP432989,FP3222,1970.0,OK,NF|31651735|48154|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP432995,FP6092,164500.0,OK,CT|FP6092|11/2026,OK,"boleto do fornecedor, banco habitual, valor confere",OK,categoria dispensada de OC,segue
+RM20261105-MER,TP433162,FP4839,12713.0,OK,NF|45784821|76140|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-MER,TP433190,FP8766,2900.0,OK,NF|16571918|46024|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-LIT,TP432933,FP2303,7669.0,OK,NF|85390591|26531|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-LIT,TP433000,FP2471,5202.0,OK,NF|49420999|5352|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-LIT,TP433018,FP2211,4333.0,OK,NF|18830499|3700|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-LIT,TP433046,FP3863,6033.0,OK,NF|28429911|7855|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-LIT,TP433066,FP7753,6000.0,OK,NF|75741889|49593|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-LIT,TP433079,FP7332,2738.0,OK,NF|30758202|82226|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261105-LIT,TP433148,FP8042,7150.0,OK,NF|76528514|40562|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP427170,FP4999,24592.03,OK,NF|71659118|63390|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP427213,FP6212,5337.86,OK,NF|13030916|93544|4,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP427313,FP6212,10030.51,OK,NF|13030916|93592|4,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP427358,FP4999,5931.86,OK,NF|71659118|63403|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP430272,FP6026,41766.41,OK,NF|63770741|6517|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP430297,FP6026,25858.29,OK,NF|63770741|6512|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP430429,FP6212,13883.3,OK,NF|13030916|94315|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431018,FP1748,3432.6,OK,NF|60360748|9186|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431096,FP3351,2271.95,OK,NF|87274403|48936|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431154,FP2532,5450.44,OK,NF|92385683|73393|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431202,FP1748,5410.35,OK,NF|60360748|9184|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431219,FP1602,2595.59,OK,NF|98998333|63323|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431249,FP2532,6016.13,OK,NF|92385683|73335|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431396,FP4615,3623.25,OK,NF|85990602|77873|2,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431410,FP2685,1724.58,OK,NF|56659033|87132|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431471,FP1262,7980.54,OK,NF|59641174|62861|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431476,FP4595,4145.02,OK,NF|15913646|35904|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431479,FP4615,6297.4,OK,NF|85990602|77879|2,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431489,FP1602,4074.1,OK,NF|98998333|63447|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431496,FP3071,4498.86,OK,NF|22303923|14986|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431557,FP1748,2524.83,OK,NF|60360748|9292|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431560,FP5079,4110.04,OK,NF|74149911|38539|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431687,FP1179,3925.33,OK,NF|64747211|47198|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431707,FP7908,33718.54,OK,NF|85779751|11727|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431718,FP3113,5020.49,OK,NF|90331547|36491|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431720,FP3071,2838.64,OK,NF|22303923|15087|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431735,FP6799,2007.19,OK,NF|86532498|49305|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431775,FP4595,90873.8,VALOR_ACIMA,NF|15913646|35924|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,valor_corrigido_e_reagendado
+RM20261106-MER,TP431777,FP6026,6932.92,OK,NF|63770741|6831|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431812,FP4595,7269.82,OK,NF|15913646|35968|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431834,FP4615,5609.13,OK,NF|85990602|77922|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431851,FP3800,13496.93,OK,NF|44573563|11583|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431864,FP5574,32440.0,OK,NF|72052974|84114|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431876,FP6026,23289.81,OK,NF|63770741|6841|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431879,FP6212,6546.02,OK,NF|13030916|94791|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431883,FP3614,2146.37,OK,NF|15924488|4055|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431920,FP6212,8597.99,OK,NF|13030916|94803|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431946,FP5079,9870.5,SEM_OBRIGACAO,NF|74149911|49704|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,retido_sem_obrigacao
+RM20261106-MER,TP431949,FP3172,3997.13,OK,NF|14343478|66366|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431958,FP6026,8892.9,OK,NF|63770741|6859|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431965,FP4999,21000.63,OK,NF|71659118|64500|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431968,FP6357,1204.19,OK,NF|52759405|20616|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431972,FP6212,18528.43,OK,NF|13030916|94839|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431981,FP5079,1477.85,OK,NF|74149911|38629|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431995,FP6026,6570.68,OK,NF|63770741|6856|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP431999,FP2237,1545.9,OK,NF|21956571|59680|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432004,FP3071,7392.88,OK,NF|22303923|15117|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432030,FP6357,2832.21,OK,NF|52759405|20665|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432038,FP1602,7507.38,OK,NF|98998333|63551|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432042,FP3549,1152.12,OK,NF|38055876|24272|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432075,FP3388,2497.26,OK,NF|95795412|75873|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432081,FP3302,6297.02,OK,NF|40572902|35993|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432089,FP1602,9282.67,OK,NF|98998333|63553|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432090,FP2532,16182.14,OK,NF|92385683|73516|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432093,FP1262,20566.99,OK,NF|59641174|62963|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432106,FP3071,13694.77,OK,NF|22303923|15089|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432108,FP6799,20799.26,OK,NF|86532498|49413|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432112,FP1748,4668.05,OK,NF|60360748|9317|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432114,FP4595,6255.22,OK,NF|15913646|35991|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432128,FP3071,10540.5,OK,NF|22303923|15106|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432135,FP3113,3111.67,OK,NF|90331547|36595|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432138,FP4345,2339.15,OK,NF|20623234|57285|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432161,FP4533,5822.48,OK,NF|75690784|93182|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432163,FP3351,3969.77,OK,NF|87274403|49035|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432174,FP2838,14231.02,OK,NF|97646186|71192|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432186,FP4999,16179.56,OK,NF|71659118|64517|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432204,FP2838,33073.32,OK,NF|97646186|71170|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432230,FP3345,3088.96,OK,NF|98289709|59542|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432253,FP1262,10925.72,OK,NF|59641174|62972|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432275,FP3549,1235.03,OK,NF|38055876|24264|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432289,FP1262,4298.42,OK,NF|59641174|62948|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432323,FP3113,8731.58,OK,NF|90331547|36574|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432774,FP6624,51529.48,OK,NF|72632502|82329|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432776,FP4939,30385.66,OK,NF|97776852|59770|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432861,FP3277,40540.96,OK,NF|48694441|84421|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432863,FP3062,27134.8,JA_CONSUMIDA,NF|58917762|17319|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_pago_fora_do_lote
+RM20261106-MER,TP432868,FP4939,42620.19,OK,NF|97776852|59799|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432869,FP3277,44796.84,OK,NF|48694441|84428|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP432871,FP6624,25098.08,OK,NF|72632502|82313|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261106-MER,TP433196,FP5525,14215.0,OK,NF|31255237|54345|1,OK,"boleto do fornecedor, banco habitual, valor confere",OC_CANCELADA,OC-41440 cancelada em Compras,retido_oc_cancelada
+RM20261106-LIT,TP433195,FP7753,1500.0,OK,NF|75741889|49611|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP427227,FP2838,15893.4,OK,NF|97646186|69917|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP427265,FP3800,22846.2,OK,NF|44573563|10474|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP428500,FP7908,7570.69,OK,NF|85779751|11023|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP428552,FP7908,17994.83,OK,NF|85779751|11045|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP428617,FP7908,19852.77,OK,NF|85779751|11079|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP428629,FP3800,6602.71,OK,NF|44573563|10877|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP428666,FP2838,10502.27,OK,NF|97646186|70313|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP428688,FP4999,11243.74,OK,NF|71659118|63650|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP428707,FP6212,16927.55,OK,NF|13030916|93929|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP428772,FP3800,17772.12,OK,NF|44573563|10901|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP428844,FP7908,17994.83,JA_CONSUMIDA,NF|85779751|11045|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261109-MER,TP428888,FP2838,9907.66,OK,NF|97646186|70316|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP428909,FP7908,19852.77,JA_CONSUMIDA,NF|85779751|11079|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261109-MER,TP428928,FP6212,16927.55,JA_CONSUMIDA,NF|13030916|93929|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261109-MER,TP428948,FP2838,21069.1,OK,NF|97646186|70337|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430024,FP4999,13404.68,OK,NF|71659118|64030|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430116,FP6357,837.08,OK,NF|52759405|20341|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430122,FP5079,3424.18,OK,NF|74149911|38127|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430124,FP3800,7245.35,OK,NF|44573563|11129|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430127,FP2838,12806.16,OK,NF|97646186|70790|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430133,FP3549,1630.32,OK,NF|38055876|23847|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430142,FP7908,9178.79,OK,NF|85779751|11327|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430166,FP4595,1940.05,OK,NF|15913646|35716|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430179,FP1179,2091.76,OK,NF|64747211|47008|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430185,FP2685,5720.22,OK,NF|56659033|86855|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430190,FP3113,6091.32,OK,NF|90331547|36299|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430206,FP1602,1923.36,OK,NF|98998333|63178|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430209,FP2838,11845.6,OK,NF|97646186|70776|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430233,FP7908,12011.78,OK,NF|85779751|11341|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430259,FP3071,12342.24,OK,NF|22303923|14770|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430263,FP3345,2146.43,OK,NF|98289709|59356|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430284,FP3549,13999.3,OK,NF|38055876|23843|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430292,FP2838,5286.23,OK,NF|97646186|70813|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430302,FP4999,10107.16,OK,NF|71659118|64091|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430305,FP6799,5800.87,OK,NF|86532498|49148|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430307,FP3388,22995.56,OK,NF|95795412|75592|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430312,FP4999,5007.93,OK,NF|71659118|64050|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430335,FP6026,16323.24,OK,NF|63770741|6531|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430340,FP3302,16164.0,OK,NF|40572902|35620|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430346,FP2838,9308.56,OK,NF|97646186|70843|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430350,FP4999,5881.25,OK,NF|71659118|64066|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430389,FP6357,841.58,JA_CONSUMIDA,NF|52759405|20341|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261109-MER,TP430393,FP6118,2092.5,OK,NF|30855541|40110|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430410,FP2838,34525.02,OK,NF|97646186|70880|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430416,FP3071,2169.86,OK,NF|22303923|14743|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP430551,FP6212,17940.59,OK,NF|13030916|94378|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431133,FP1262,1483.83,OK,NF|59641174|62787|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431170,FP1748,2351.05,OK,NF|60360748|9241|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431206,FP1602,3112.12,OK,NF|98998333|63333|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431235,FP1748,27710.86,OK,NF|60360748|9238|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431260,FP1179,2770.37,OK,NF|64747211|47037|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431294,FP3071,1155.3,OK,NF|22303923|14910|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431486,FP3351,1275.48,OK,NF|87274403|48980|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431536,FP1602,7671.2,VALOR_ACIMA,NF|98998333|63473|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,valor_corrigido_e_reagendado
+RM20261109-MER,TP431591,FP6799,1028.61,OK,NF|86532498|49336|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431739,FP3388,3125.68,OK,NF|95795412|75947|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431746,FP5079,761.38,OK,NF|74149911|38569|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431797,FP3614,5805.01,OK,NF|15924488|4104|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431807,FP2838,9886.8,OK,NF|97646186|71207|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431819,FP7908,91273.98,OK,NF|85779751|11811|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431836,FP5601,932.58,OK,NF|25750628|73403|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431850,FP5114,7600.0,OK,NF|78248555|92768|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431868,FP5525,4914.45,OK,NF|31255237|54151|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431904,FP6026,15573.39,OK,NF|63770741|6876|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431907,FP3614,1975.04,OK,NF|15924488|4155|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431925,FP6026,17053.08,OK,NF|63770741|6897|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431929,FP4999,2792.54,OK,NF|71659118|64541|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431942,FP2237,5703.95,OK,NF|21956571|59756|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431944,FP2532,5546.0,OK,NF|92385683|73478|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431953,FP3302,1395.9,OK,NF|40572902|35995|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431974,FP6212,14891.71,OK,NF|13030916|94865|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431977,FP3800,7636.45,OK,NF|44573563|11628|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431984,FP5940,1611.33,OK,NF|27080090|32481|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431987,FP6118,5353.75,OK,NF|30855541|40328|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP431991,FP3800,11263.76,OK,NF|44573563|11607|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432014,FP1748,12480.95,OK,NF|60360748|9421|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432025,FP4615,1935.73,OK,NF|85990602|77904|2,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432027,FP1179,7293.92,OK,NF|64747211|47209|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432049,FP7908,3072.84,OK,NF|85779751|11778|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432056,FP4999,4107.78,OK,NF|71659118|64456|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432065,FP7908,10092.24,OK,NF|85779751|11849|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432079,FP3614,7703.1,OK,NF|15924488|4122|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432107,FP1190,145350.0,OK,NF|21922862|4014|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432120,FP2838,4188.24,OK,NF|97646186|71217|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432124,FP5601,2374.74,OK,NF|25750628|73434|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432126,FP5940,1611.33,JA_CONSUMIDA,NF|27080090|32481|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261109-MER,TP432133,FP5601,2133.42,OK,NF|25750628|73407|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432139,FP2838,14464.71,OK,NF|97646186|71250|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432143,FP1748,2795.73,OK,NF|60360748|9415|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432149,FP3614,1076.63,OK,NF|15924488|4165|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432183,FP7908,8242.46,OK,NF|85779751|11829|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432197,FP6212,15442.63,OK,NF|13030916|94812|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432207,FP6212,6466.11,OK,NF|13030916|94827|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432212,FP7908,12595.96,OK,NF|85779751|11863|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432232,FP4999,9657.51,OK,NF|71659118|64483|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432242,FP3113,2090.6,OK,NF|90331547|36553|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432278,FP2838,9568.7,OK,NF|97646186|71223|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432294,FP3614,6674.8,OK,NF|15924488|4189|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432296,FP3800,9247.06,OK,NF|44573563|11643|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432317,FP4999,8663.08,OK,NF|71659118|64522|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432320,FP6118,6426.54,OK,NF|30855541|40349|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432334,FP6026,35086.93,OK,NF|63770741|6914|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432344,FP4202,611.42,OK,NF|95604820|31808|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432346,FP2832,1180.01,OK,NF|69683644|41391|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432862,FP3277,11835.02,OK,NF|48694441|84431|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432864,FP3277,34658.12,OK,NF|48694441|84445|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432865,FP6624,59597.64,JA_CONSUMIDA,NF|72632502|82347|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_pago_fora_do_lote
+RM20261109-MER,TP432866,FP3277,27475.4,OK,NF|48694441|84466|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432867,FP3062,11851.06,OK,NF|58917762|17350|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-MER,TP432870,FP6624,24296.67,OK,NF|72632502|82342|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261109-LIT,TP433074,FP6660,8900.0,OK,NF|79558476|94409|1,OK,"boleto do fornecedor, banco habitual, valor confere",SEM_OC_APROVADA,OC-41494 está 'pendente_aprovacao',segue
+RM20261109-LIT,TP433169,FP3242,4193.79,OK,NF|45354659|76090|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,categoria dispensada de OC,segue
+RM20261109-LIT,TP433382,FP9907,1100.0,OK,NF|37911871|30002|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP428679,FP2838,13419.46,OK,NF|97646186|70355|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP428738,FP2838,20929.84,OK,NF|97646186|70363|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP428784,FP6212,23618.14,OK,NF|13030916|93990|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP428903,FP6212,19346.1,OK,NF|13030916|93970|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430254,FP5525,7387.31,OK,NF|31255237|53788|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430286,FP5525,10087.6,OK,NF|31255237|53808|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430288,FP6118,2816.59,OK,NF|30855541|40158|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430290,FP3302,1398.8,OK,NF|40572902|35637|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430299,FP6212,42566.54,OK,NF|13030916|94306|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430309,FP2838,20707.93,OK,NF|97646186|70821|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430318,FP3351,7089.04,OK,NF|87274403|48862|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430330,FP4999,14692.45,OK,NF|71659118|64128|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430348,FP6357,1641.54,OK,NF|52759405|20361|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430366,FP6212,5492.52,OK,NF|13030916|94341|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430380,FP4533,2405.31,OK,NF|75690784|92973|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430385,FP4999,24614.0,OK,NF|71659118|64100|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430391,FP3302,886.56,OK,NF|40572902|35653|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430403,FP7908,63198.6,OK,NF|85779751|11351|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430408,FP1262,7138.94,OK,NF|59641174|62667|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430473,FP6212,10304.84,OK,NF|13030916|94311|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430495,FP4999,30758.32,OK,NF|71659118|64103|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP430645,FP3800,35232.45,OK,NF|44573563|11161|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431277,FP1602,2845.69,OK,NF|98998333|63349|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431345,FP2685,4205.26,OK,NF|56659033|87052|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431356,FP2532,3827.86,OK,NF|92385683|73406|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431364,FP2532,3997.47,OK,NF|92385683|73434|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431503,FP4615,1180.86,OK,NF|85990602|77811|3,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431526,FP1262,4883.37,OK,NF|59641174|62791|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431604,FP2532,9564.42,OK,NF|92385683|73461|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431652,FP2685,2991.6,OK,NF|56659033|87193|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431667,FP5525,1840.91,OK,NF|31255237|54083|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431784,FP1602,730.35,OK,NF|98998333|63485|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP431824,FP3071,2297.71,OK,NF|22303923|15031|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432018,FP3172,2581.82,OK,NF|14343478|66325|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432032,FP5079,2058.58,OK,NF|74149911|38580|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432061,FP3172,3910.14,OK,NF|14343478|66319|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432068,FP3549,4216.39,OK,NF|38055876|24327|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432077,FP3071,3630.72,OK,NF|22303923|15137|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432088,FP3549,2634.53,OK,NF|38055876|24305|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432095,FP1262,1260.6,OK,NF|59641174|62918|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432146,FP4595,18423.26,OK,NF|15913646|36014|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432169,FP2532,3695.52,OK,NF|92385683|73535|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432191,FP3388,13297.06,OK,NF|95795412|75992|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432250,FP5601,3644.05,OK,NF|25750628|73494|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432251,FP6026,18480.12,OK,NF|63770741|6921|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432286,FP1748,5923.73,OK,NF|60360748|9439|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432287,FP3800,17193.4,OK,NF|44573563|11661|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432306,FP5601,5687.99,OK,NF|25750628|73472|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432324,FP3614,7652.75,OK,NF|15924488|4211|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432325,FP3302,9551.74,OK,NF|40572902|36021|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432337,FP3614,12380.0,SEM_OBRIGACAO,NF|15924488|36431|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,retido_sem_obrigacao
+RM20261110-MER,TP432340,FP3172,2442.52,OK,NF|14343478|66383|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432411,FP6118,6649.15,OK,NF|30855541|40361|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432436,FP2532,13811.13,OK,NF|92385683|73542|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432441,FP3549,17183.82,OK,NF|38055876|24282|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432493,FP4595,9126.15,OK,NF|15913646|36020|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432571,FP3345,2125.56,OK,NF|98289709|59547|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432669,FP2532,3695.52,JA_CONSUMIDA,NF|92385683|73535|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261110-MER,TP432725,FP3549,4303.5,OK,NF|38055876|24211|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432746,FP6212,37758.54,OK,NF|13030916|94325|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432990,FP3062,17653.6,OK,NF|58917762|17373|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432991,FP3277,17748.23,OK,NF|48694441|84496|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432992,FP4939,72436.61,JA_CONSUMIDA,NF|97776852|59821|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_pago_fora_do_lote
+RM20261110-MER,TP432993,FP6643,15441.76,OK,NF|28303375|24872|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP432994,FP3062,25592.51,OK,NF|58917762|17404|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP433092,FP4202,445.13,VALOR_ABAIXO,NF|95604820|31845|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,analista_corrige_abaixo
+RM20261110-MER,TP433096,FP4939,15315.33,OK,NF|97776852|59854|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP433098,FP3062,20194.05,OK,NF|58917762|17392|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP433099,FP4939,18398.33,OK,NF|97776852|59843|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP433100,FP6643,11817.48,OK,NF|28303375|24860|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP433101,FP3277,14995.93,OK,NF|48694441|84493|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-MER,TP433102,FP4939,21454.18,OK,NF|97776852|59813|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-LIT,TP433273,FP6386,591.0,OK,NF|63937969|45093|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261110-LIT,TP433355,FP7836,12633.0,OK,NF|29508637|44411|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP427320,FP7908,14404.92,OK,NF|85779751|10761|4,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP427495,FP6026,8017.5,OK,NF|63770741|6047|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP428741,FP2838,8693.79,OK,NF|97646186|70388|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP428808,FP7908,2197.33,OK,NF|85779751|11094|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP428899,FP4999,7948.71,OK,NF|71659118|63674|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP430638,FP4999,34766.25,OK,NF|71659118|64173|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431244,FP4615,6232.56,OK,NF|85990602|77839|3,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431326,FP3172,1346.27,OK,NF|14343478|66267|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431336,FP5079,1414.31,OK,NF|74149911|38466|3,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431390,FP2685,4737.83,OK,NF|56659033|87073|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431419,FP1602,10476.33,OK,NF|98998333|63373|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431430,FP4615,1751.52,OK,NF|85990602|77868|3,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431454,FP4595,9586.02,OK,NF|15913646|35856|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431522,FP1748,6641.87,OK,NF|60360748|9271|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431540,FP5525,1087.57,OK,NF|31255237|54060|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431752,FP5525,8763.31,OK,NF|31255237|54147|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431803,FP3113,3111.75,OK,NF|90331547|36495|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431842,FP3071,1932.04,OK,NF|22303923|15052|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431859,FP4595,9833.82,OK,NF|15913646|35952|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431886,FP6799,2258.46,OK,NF|86532498|49402|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431894,FP3113,3509.92,OK,NF|90331547|36493|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP431936,FP5525,2533.82,OK,NF|31255237|54110|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432040,FP1602,5871.51,OK,NF|98998333|63522|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432047,FP2685,4264.43,OK,NF|56659033|87203|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432054,FP5079,2367.51,OK,NF|74149911|38610|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432151,FP1602,832.74,OK,NF|98998333|63579|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432172,FP3549,7060.96,OK,NF|38055876|24347|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432188,FP2685,1434.5,OK,NF|56659033|87210|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432201,FP1602,10311.76,OK,NF|98998333|63584|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432215,FP3614,5953.84,OK,NF|15924488|4257|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432222,FP3172,10844.4,OK,NF|14343478|66410|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432225,FP3345,2927.76,OK,NF|98289709|59609|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432227,FP6799,1299.83,OK,NF|86532498|49426|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432244,FP3614,7656.46,OK,NF|15924488|4286|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432247,FP1748,4521.29,OK,NF|60360748|9450|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432254,FP1262,2123.55,OK,NF|59641174|62995|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432269,FP2532,3292.45,OK,NF|92385683|73546|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432284,FP7908,16097.32,OK,NF|85779751|11884|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432299,FP3172,2199.51,OK,NF|14343478|66416|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432307,FP3302,8740.48,OK,NF|40572902|36050|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432313,FP4999,17480.77,OK,NF|71659118|64558|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432316,FP1179,5618.94,OK,NF|64747211|47265|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432333,FP3388,7245.91,OK,NF|95795412|76009|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432357,FP3113,1161.64,OK,NF|90331547|36598|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432403,FP2838,30802.68,OK,NF|97646186|71289|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432429,FP2532,40263.0,OK,NF|92385683|73949|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432482,FP1748,3818.07,OK,NF|60360748|9446|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432503,FP3071,2065.86,OK,NF|22303923|15153|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432524,FP3351,1848.84,OK,NF|87274403|49075|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432527,FP3351,8318.02,OK,NF|87274403|49038|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432531,FP3351,3486.5,OK,NF|87274403|49059|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP432551,FP1262,1606.87,OK,NF|59641174|62979|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP433103,FP6624,26343.86,OK,NF|72632502|82375|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP433204,FP3062,30540.37,OK,NF|58917762|17412|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP433205,FP4939,22304.19,OK,NF|97776852|59898|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP433206,FP3062,20042.5,OK,NF|58917762|17413|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP433207,FP6624,31072.68,OK,NF|72632502|82348|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP433208,FP3277,27053.39,OK,NF|48694441|84524|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP433209,FP4939,35428.77,OK,NF|97776852|59910|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-MER,TP433210,FP3277,7621.09,OK,NF|48694441|84507|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261111-LIT,TP433276,FP6335,5131.32,OK,NF|51862882|46952|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP427549,FP6026,8892.87,OK,NF|63770741|6075|4,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP428803,FP6212,9495.79,OK,NF|13030916|94029|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP428833,FP2838,18786.2,OK,NF|97646186|70431|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP428863,FP2838,5442.62,OK,NF|97646186|70482|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP428923,FP2838,17362.18,OK,NF|97646186|70460|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP429036,FP6212,22418.1,OK,NF|13030916|94000|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP430651,FP6212,6764.74,OK,NF|13030916|94419|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP430669,FP4999,38004.57,OK,NF|71659118|63717|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP430685,FP3800,16457.28,OK,NF|44573563|11238|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP430738,FP4999,25790.32,OK,NF|71659118|64222|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP430834,FP7908,43581.22,OK,NF|85779751|11424|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP430865,FP4999,13670.76,OK,NF|71659118|64207|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP431301,FP1262,2246.34,OK,NF|59641174|62848|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP431329,FP3172,1385.75,OK,NF|14343478|66273|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP431460,FP1262,4838.0,OK,NF|59641174|62851|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP431463,FP5079,3071.04,OK,NF|74149911|38484|3,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP431763,FP4615,2003.66,OK,NF|85990602|77939|2,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP431827,FP3549,3325.08,OK,NF|38055876|24231|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP431846,FP3549,4334.35,OK,NF|38055876|24252|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP431874,FP1262,1825.26,OK,NF|59641174|62930|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP431939,FP3113,3364.85,OK,NF|90331547|36539|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432006,FP1262,5179.8,OK,NF|59641174|62925|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432012,FP1748,3029.76,OK,NF|60360748|9363|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432083,FP5079,5921.26,OK,NF|74149911|38628|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432091,FP1179,995.78,OK,NF|64747211|47239|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432099,FP5525,1102.49,OK,NF|31255237|54155|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432103,FP4999,9116.05,OK,NF|71659118|64555|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432166,FP4615,4586.94,OK,NF|85990602|77962|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432194,FP6212,11637.9,OK,NF|13030916|94886|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432236,FP4999,8032.16,OK,NF|71659118|64548|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432245,FP5940,277.26,VALOR_ABAIXO,NF|27080090|32505|1,ATENCAO,"ABAIXO: título R$ 277.26 menor que o boleto R$ 2,772.63 (pagaria a menos)",OK,OC aprovada e NF dentro da tolerância,analista_corrige_abaixo
+RM20261112-MER,TP432258,FP5079,2560.12,OK,NF|74149911|38649|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432271,FP4595,2997.38,OK,NF|15913646|35984|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432326,FP3800,20963.88,OK,NF|44573563|11691|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432328,FP3113,3933.61,OK,NF|90331547|36638|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432343,FP2237,9953.37,OK,NF|21956571|59783|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432351,FP3549,4322.69,OK,NF|38055876|24246|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432381,FP6799,1394.72,OK,NF|86532498|49447|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432387,FP4615,8656.53,OK,NF|85990602|78019|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432408,FP3172,1310.0,OK,NF|14343478|66438|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432417,FP5079,2015.57,OK,NF|74149911|38674|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432421,FP5525,1654.15,OK,NF|31255237|54178|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432434,FP4615,5583.78,OK,NF|85990602|78036|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432435,FP6118,6931.97,OK,NF|30855541|40415|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432442,FP5601,1705.73,OK,NF|25750628|73448|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432444,FP2685,2436.96,OK,NF|56659033|87216|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432446,FP3071,1710.68,OK,NF|22303923|15162|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432449,FP5079,3653.09,OK,NF|74149911|38679|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432452,FP3614,27684.45,OK,NF|15924488|4330|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432456,FP3302,3019.62,OK,NF|40572902|36061|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432469,FP2838,15347.38,OK,NF|97646186|71276|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432515,FP2832,975.89,OK,NF|69683644|41605|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432517,FP6357,10193.43,OK,NF|52759405|20672|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432523,FP3345,2811.8,OK,NF|98289709|59616|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432537,FP1748,849.84,OK,NF|60360748|9459|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432543,FP3345,1534.0,OK,NF|98289709|59568|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432575,FP7908,24408.34,OK,NF|85779751|11949|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432596,FP7908,24914.14,OK,NF|85779751|11889|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432599,FP7908,18417.74,OK,NF|85779751|11927|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432604,FP3388,12742.73,OK,NF|95795412|76014|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432623,FP5525,1748.88,VALOR_ABAIXO,NF|31255237|54181|1,DESTINO_SUSPEITO,"ABAIXO: título R$ 1,748.88 menor que o boleto R$ 17,488.78 (pagaria a menos); fornecedor em verificação pelo e-mail EM570996",OK,OC aprovada e NF dentro da tolerância,retido_destino_suspeito
+RM20261112-MER,TP432626,FP3549,5048.72,OK,NF|38055876|24363|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432637,FP6357,17216.67,OK,NF|52759405|20711|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432698,FP4615,3494.35,OK,NF|85990602|77990|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432706,FP3113,6963.82,OK,NF|90331547|36627|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432709,FP4615,5654.04,OK,NF|85990602|77982|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP432847,FP3549,5053.22,JA_CONSUMIDA,NF|38055876|24363|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,cancelado_duplicidade
+RM20261112-MER,TP433076,FP4595,946.1,OK,NF|15913646|36036|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP433203,FP6643,25813.41,OK,NF|28303375|24891|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP433300,FP7908,13025.91,OK,NF|85779751|11882|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP433313,FP6643,35987.41,OK,NF|28303375|24896|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP433315,FP3277,45102.86,OK,NF|48694441|84539|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP433317,FP3062,24903.68,OK,NF|58917762|17441|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP433318,FP6643,39355.39,OK,NF|28303375|24900|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-MER,TP433319,FP6624,39705.46,OK,NF|72632502|82396|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261112-LIT,TP432118,FP6132,4737.92,OK,NF|53283088|39438|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430327,FP3549,8095.98,OK,NF|38055876|23903|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430406,FP2685,1738.82,OK,NF|56659033|86926|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430422,FP6212,29463.8,OK,NF|13030916|94350|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430451,FP1179,1184.66,OK,NF|64747211|47052|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430471,FP3388,13278.69,OK,NF|95795412|75634|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430484,FP7908,11081.18,OK,NF|85779751|11353|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430503,FP6118,6003.35,OK,NF|30855541|40162|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430512,FP2838,10826.93,OK,NF|97646186|70853|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430516,FP2685,2432.32,OK,NF|56659033|86922|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430553,FP6026,12452.2,OK,NF|63770741|6549|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430617,FP3351,1833.7,OK,NF|87274403|48892|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430682,FP3113,6007.79,OK,NF|90331547|36358|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430698,FP6026,26941.83,OK,NF|63770741|6654|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP430713,FP7908,22730.61,OK,NF|85779751|11463|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431397,FP4615,3623.25,OK,NF|85990602|77873|3,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431411,FP2685,1724.58,OK,NF|56659033|87132|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431472,FP1262,7980.54,OK,NF|59641174|62861|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431477,FP4595,4145.02,OK,NF|15913646|35904|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431480,FP4615,6297.4,OK,NF|85990602|77879|3,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431490,FP1602,4074.1,OK,NF|98998333|63447|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431497,FP3071,4498.86,OK,NF|22303923|14986|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431558,FP1748,2524.83,OK,NF|60360748|9292|3,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431561,FP5079,4110.04,OK,NF|74149911|38539|3,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431736,FP6799,2007.19,OK,NF|86532498|49305|3,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431950,FP3172,3997.13,OK,NF|14343478|66366|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP431982,FP5079,1477.85,OK,NF|74149911|38629|2,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432043,FP3549,1152.12,OK,NF|38055876|24272|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432115,FP4595,6255.22,OK,NF|15913646|35991|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432136,FP3113,311.17,VALOR_ABAIXO,NF|90331547|36595|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,analista_corrige_abaixo
+RM20261113-MER,TP432164,FP3351,3969.77,OK,NF|87274403|49035|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432192,FP3614,3805.9,OK,NF|15924488|4233|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432217,FP1262,4285.89,OK,NF|59641174|63005|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432219,FP3113,9103.23,OK,NF|90331547|36621|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432276,FP3549,1235.01,OK,NF|38055876|24264|2,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432290,FP1262,4298.42,OK,NF|59641174|62948|2,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432303,FP6026,9287.23,OK,NF|63770741|6931|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432308,FP2838,15918.1,OK,NF|97646186|71293|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432330,FP6212,17650.63,OK,NF|13030916|94909|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432375,FP2685,3913.67,OK,NF|56659033|87230|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432384,FP5525,4096.75,OK,NF|31255237|54200|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432390,FP6118,474.5,OK,NF|30855541|40366|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432393,FP6357,14842.29,OK,NF|52759405|20738|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432395,FP5601,5635.42,OK,NF|25750628|73512|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432397,FP3800,14450.24,OK,NF|44573563|11684|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432400,FP3351,14015.33,OK,NF|87274403|49099|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432412,FP3549,19501.24,OK,NF|38055876|24373|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432420,FP3388,6750.71,OK,NF|95795412|76102|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432430,FP4999,14892.46,OK,NF|71659118|64569|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432432,FP7908,42349.28,OK,NF|85779751|11960|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432445,FP4615,8242.56,OK,NF|85990602|78081|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432457,FP3388,4398.02,OK,NF|95795412|76048|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432460,FP3388,2267.97,OK,NF|95795412|76041|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432461,FP6026,14238.05,OK,NF|63770741|6951|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432465,FP4533,636.69,OK,NF|75690784|93187|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432478,FP3071,1969.27,OK,NF|22303923|15180|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432479,FP3071,5274.7,OK,NF|22303923|15139|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432485,FP3345,1944.59,OK,NF|98289709|59593|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432492,FP6799,2689.2,OK,NF|86532498|49465|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432496,FP5079,2565.37,OK,NF|74149911|38702|1,OK,confirmada por ligação ao telefone anterior,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432507,FP1262,9634.04,OK,NF|59641174|63029|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432508,FP3351,1249.6,OK,NF|87274403|49120|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432511,FP3071,2535.31,OK,NF|22303923|15206|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432512,FP3549,16027.01,OK,NF|38055876|24375|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432518,FP3302,3897.42,OK,NF|40572902|36022|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432520,FP1190,12680.0,OK,NF|21922862|4034|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432534,FP1748,3325.12,OK,NF|60360748|9478|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432545,FP6118,5308.84,OK,NF|30855541|40442|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432555,FP4615,664.01,OK,NF|85990602|78073|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432567,FP2237,9552.84,OK,NF|21956571|59804|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432577,FP3302,12977.32,OK,NF|40572902|36101|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432605,FP6118,8256.81,OK,NF|30855541|40449|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432616,FP4615,2771.48,OK,NF|85990602|78063|1,OK,cadastro revertido para a conta anterior confirmada,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432629,FP3388,3340.93,OK,NF|95795412|76074|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432630,FP3351,5363.06,OK,NF|87274403|49144|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432685,FP1262,2000.29,OK,NF|59641174|63011|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432718,FP3302,6876.0,OK,NF|40572902|36076|1,OK,dados bancários originais do cadastro,OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432744,FP2237,35692.93,OK,NF|21956571|59860|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP432759,FP2838,15740.15,OK,NF|97646186|71306|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP433312,FP3277,44493.14,OK,NF|48694441|84552|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP433314,FP4939,35746.24,OK,NF|97776852|59914|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue
+RM20261113-MER,TP433316,FP6624,20788.39,OK,NF|72632502|82401|1,OK,"boleto do fornecedor, banco habitual, valor confere",OK,OC aprovada e NF dentro da tolerância,segue

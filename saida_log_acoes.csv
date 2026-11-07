@@ -1,0 +1,129 @@
+quando,ator,ferramenta,titulo_id,resultado,detalhe,evidencias
+,agente_conciliador,acionar_pessoa,,ok,PS01 [normal] (ia): e-mail EM570977 ambíguo para a IA,
+,agente_analista,solicitar_aprovacao,,aprovado,cancelar_titulo por aprovador+PS03: 21 títulos em aberto duplicam NF/parcela já lançada (pedido único),"['TP430214 copia TP429863 (NF 11275 parc 3, origem boleto_email)', 'TP430643 copia TP430606 (NF 11407 parc 4, origem boleto_email)', 'TP430642 copia TP430605 (NF 11407 parc 3, origem boleto_email)', 'TP430641 copia TP430604 (NF 11407 parc 2, origem boleto_email)', 'TP430910 copia TP430791 (NF 14838 parc 2, origem boleto_email)']"
+,agente_analista,cancelar_titulo,TP430214,ok,duplicidade em aberto (varredura preventiva),['copia TP429863']
+,agente_analista,cancelar_titulo,TP430643,ok,duplicidade em aberto (varredura preventiva),['copia TP430606']
+,agente_analista,cancelar_titulo,TP430642,ok,duplicidade em aberto (varredura preventiva),['copia TP430605']
+,agente_analista,cancelar_titulo,TP430641,ok,duplicidade em aberto (varredura preventiva),['copia TP430604']
+,agente_analista,cancelar_titulo,TP430910,ok,duplicidade em aberto (varredura preventiva),['copia TP430791']
+,agente_analista,cancelar_titulo,TP431052,ok,duplicidade em aberto (varredura preventiva),['copia TP430894']
+,agente_analista,cancelar_titulo,TP431149,ok,duplicidade em aberto (varredura preventiva),['copia TP430988']
+,agente_analista,cancelar_titulo,TP431303,ok,duplicidade em aberto (varredura preventiva),['copia TP431165']
+,agente_analista,cancelar_titulo,TP431304,ok,duplicidade em aberto (varredura preventiva),['copia TP431166']
+,agente_analista,cancelar_titulo,TP431588,ok,duplicidade em aberto (varredura preventiva),['copia TP431500']
+,agente_analista,cancelar_titulo,TP431661,ok,duplicidade em aberto (varredura preventiva),['copia TP431528']
+,agente_analista,cancelar_titulo,TP431662,ok,duplicidade em aberto (varredura preventiva),['copia TP431529']
+,agente_analista,cancelar_titulo,TP432111,ok,duplicidade em aberto (varredura preventiva),['copia TP431554']
+,agente_analista,cancelar_titulo,TP432127,ok,duplicidade em aberto (varredura preventiva),['copia TP431985']
+,agente_analista,cancelar_titulo,TP432274,ok,duplicidade em aberto (varredura preventiva),['copia TP431782']
+,agente_analista,cancelar_titulo,TP432671,ok,duplicidade em aberto (varredura preventiva),['copia TP432171']
+,agente_analista,cancelar_titulo,TP432670,ok,duplicidade em aberto (varredura preventiva),['copia TP432170']
+,agente_analista,cancelar_titulo,TP432849,ok,duplicidade em aberto (varredura preventiva),['copia TP432628']
+,agente_analista,cancelar_titulo,TP432848,ok,duplicidade em aberto (varredura preventiva),['copia TP432627']
+,agente_analista,cancelar_titulo,TP433013,ok,duplicidade em aberto (varredura preventiva),['copia TP432881']
+,agente_analista,cancelar_titulo,TP433014,ok,duplicidade em aberto (varredura preventiva),['copia TP432882']
+2026-11-03 10:00,agente_conciliador,retirar_do_lote,TP429865,ok,"RM20261103-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-03 10:00,agente_analista,cancelar_titulo,TP429865,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|27080090|32057|2 já consumida pelo título TP429796']
+2026-11-03 10:00,agente_conciliador,retirar_do_lote,TP430006,ok,"RM20261103-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-03 10:00,agente_analista,cancelar_titulo,TP430006,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|52759405|20329|2 já consumida pelo título TP429834']
+2026-11-03 10:00,agente_conciliador,retirar_do_lote,TP430213,ok,"RM20261103-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-03 10:00,agente_analista,solicitar_aprovacao,TP430213,aprovado,cancelar_titulo por aprovador: duplicidade: obrigação já paga/reservada,['obrigação NF|85779751|11275|2 já consumida pelo título TP429862']
+2026-11-03 10:00,agente_analista,cancelar_titulo,TP430213,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|85779751|11275|2 já consumida pelo título TP429862']
+2026-11-03 10:00,agente_conciliador,retirar_do_lote,TP431502,ok,RM20261103-MER: livro=OK; destino=DESTINO_SUSPEITO: troca sem confirmação registrada,
+2026-11-03 10:00,agente_conciliador,solicitar_aprovacao,,aprovado,reverter_alteracao_cadastro por aprovador+PS01: troca bancária sem confirmação válida,"['alteração AC31208 em 2026-10-30 16:05:00 via email: ***944-5 -> ***203-9', 'política: troca sem confirmação registrada']"
+2026-11-03 10:00,agente_conciliador,reverter_alteracao_cadastro,,ok,FP4615 volta para ted 774/7166/***944-5,"['alteração AC31208 em 2026-10-30 16:05:00 via email: ***944-5 -> ***203-9', 'política: troca sem confirmação registrada']"
+2026-11-03 10:00,agente_conciliador,acionar_pessoa,,ok,PS08 [alta] (ia): tentativa de golpe: troca de conta de FP4615 sem confirmação válida,
+2026-11-03 10:00,agente_conciliador,contatar_fornecedor,,ok,"via email confiável financeiro@embalarte.com.br (email original do cadastro): Recebemos pedido de troca de conta em seu nome. Mantivemos a conta anterior. Se a troca for legítima, confirme pelo telefone do cadastro.",
+2026-11-03 10:00,agente_analista,agendar_titulo,TP431502,ok,RM20261103-MER,
+2026-11-03 10:00,agente_conciliador,retirar_do_lote,TP431660,ok,"RM20261103-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-03 10:00,agente_analista,cancelar_titulo,TP431660,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|97646186|71109|1 já consumida pelo título TP431527']
+2026-11-03 10:00,agente_conciliador,retirar_do_lote,TP431754,ok,RM20261103-MER: livro=OK; destino=DESTINO_SUSPEITO: beneficiário com CNPJ de outra empresa (61.525.615/0001-26); boleto não registrado na DDA contra o CNPJ do Gogroup; conta de cobrança 368/4519/08990426 nunca usada por este fornecedor e boleto fora da DDA (possível segunda via adulterada),
+2026-11-03 10:00,agente_analista,contatar_fornecedor,,ok,via email confiável contasareceber@pigmentosaquarela.com.br (email original do cadastro): Recebemos um boleto com beneficiário diferente do seu cadastro. Pode confirmar o boleto correto?,
+2026-11-03 10:00,agente_analista,acionar_pessoa,,ok,PS01 [alta] (regra (IA corrigida)): suspeita de boleto adulterado: beneficiário com CNPJ de outra empresa (61.525.615/0001-26); boleto não registrado na DDA contra o CNPJ do Gogroup; conta de cobrança 368/4519/08990426 nunca usada por este fornecedor e boleto fora da DDA (possível segunda via adulterada),
+2026-11-03 10:00,tesoureiro,liberar_lote,,ok,"RM20261103-MER: 187 títulos, R$ 2,209,569.56",
+2026-11-03 14:00,tesoureiro,liberar_lote,,ok,"RM20261103-LIT: 15 títulos, R$ 159,125.68",
+2026-11-04 10:00,agente_analista,corrigir_lancamento,TP431634,ok,valor: 240.64 -> 2406.36 (valor digitado abaixo da duplicata),"['duplicata NF|40572902|35957|1 = R$ 2,406.36']"
+2026-11-04 10:00,agente_conciliador,retirar_do_lote,TP432119,ok,"RM20261104-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-04 10:00,agente_analista,solicitar_aprovacao,TP432119,aprovado,cancelar_titulo por aprovador: duplicidade: obrigação já paga/reservada,['obrigação NF|75690784|93154|1 já consumida pelo título TP431674']
+2026-11-04 10:00,agente_analista,cancelar_titulo,TP432119,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|75690784|93154|1 já consumida pelo título TP431674']
+2026-11-04 10:00,agente_conciliador,retirar_do_lote,TP432273,ok,"RM20261104-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-04 10:00,agente_analista,solicitar_aprovacao,TP432273,aprovado,cancelar_titulo por aprovador: duplicidade: obrigação já paga/reservada,['obrigação NF|87274403|48995|1 já consumida pelo título TP431781']
+2026-11-04 10:00,agente_analista,cancelar_titulo,TP432273,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|87274403|48995|1 já consumida pelo título TP431781']
+2026-11-04 10:00,tesoureiro,liberar_lote,,ok,"RM20261104-MER: 88 títulos, R$ 910,211.28",
+2026-11-04 14:00,tesoureiro,liberar_lote,,ok,"RM20261104-LIT: 2 títulos, R$ 9,704.45",
+2026-11-05 10:00,agente_conciliador,retirar_do_lote,TP431459,ok,RM20261105-MER: livro=VALOR_ACIMA; destino=OK: dados bancários originais do cadastro,
+2026-11-05 10:00,agente_analista,solicitar_aprovacao,TP431459,aprovado,"corrigir_lancamento por aprovador: valor digitado R$ 48,380.00 acima da duplicata","['duplicata NF|59641174|62851|2 = R$ 4,838.00']"
+2026-11-05 10:00,agente_analista,corrigir_lancamento,TP431459,ok,"valor: 48380.0 -> 4838.0 (valor digitado R$ 48,380.00 acima da duplicata)","['duplicata NF|59641174|62851|2 = R$ 4,838.00']"
+2026-11-05 10:00,agente_analista,agendar_titulo,TP431459,ok,RM20261105-MER,
+2026-11-05 10:00,tesoureiro,liberar_lote,,ok,"RM20261105-MER: 84 títulos, R$ 1,451,840.43",
+2026-11-05 14:00,tesoureiro,liberar_lote,,ok,"RM20261105-LIT: 7 títulos, R$ 39,125.00",
+2026-11-06 10:00,agente_conciliador,retirar_do_lote,TP431775,ok,RM20261106-MER: livro=VALOR_ACIMA; destino=OK: dados bancários originais do cadastro,
+2026-11-06 10:00,agente_analista,solicitar_aprovacao,TP431775,aprovado,"corrigir_lancamento por aprovador+PS03: valor digitado R$ 90,873.80 acima da duplicata","['duplicata NF|15913646|35924|1 = R$ 9,087.38']"
+2026-11-06 10:00,agente_analista,corrigir_lancamento,TP431775,ok,"valor: 90873.8 -> 9087.38 (valor digitado R$ 90,873.80 acima da duplicata)","['duplicata NF|15913646|35924|1 = R$ 9,087.38']"
+2026-11-06 10:00,agente_analista,solicitar_aprovacao,TP431775,aprovado,agendar_titulo por aprovador: reagendar após correção,['obrigação aberta e destino confiável']
+2026-11-06 10:00,agente_analista,agendar_titulo,TP431775,ok,RM20261106-MER,
+2026-11-06 10:00,agente_conciliador,retirar_do_lote,TP431946,ok,RM20261106-MER: livro=SEM_OBRIGACAO; destino=OK: confirmada por ligação ao telefone anterior,
+2026-11-06 10:00,agente_analista,contatar_fornecedor,,ok,via email confiável contasareceber@cartonart.com.br (email original do cadastro): Não localizamos a NF 49704 no portal. Pode reenviar o XML?,
+2026-11-06 10:00,agente_analista,acionar_pessoa,,ok,PS04 [normal] (ia): título TP431946 sem NF/contrato correspondente,
+2026-11-06 10:00,agente_conciliador,retirar_do_lote,TP432863,ok,"RM20261106-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-06 10:00,agente_analista,solicitar_aprovacao,TP432863,aprovado,"cancelar_titulo por aprovador: já pago fora do lote, sem baixa no ERP","[""obrigação NF|58917762|17319|1 paga conforme extrato LIT 2026-10-28 'PAG BOL 289 TRANSNORTE LOGISTI'""]"
+2026-11-06 10:00,agente_analista,cancelar_titulo,TP432863,ok,"já pago fora do lote, sem baixa no ERP","[""obrigação NF|58917762|17319|1 paga conforme extrato LIT 2026-10-28 'PAG BOL 289 TRANSNORTE LOGISTI'""]"
+2026-11-06 10:00,agente_analista,acionar_pessoa,,ok,PS02 [normal] (regra (IA corrigida)): pagamento manual sem baixa no ERP: TP432863 (extrato LIT 2026-10-28 'PAG BOL 289 TRANSNORTE LOGISTI'). Dar baixa no mesmo dia.,
+2026-11-06 10:00,agente_conciliador,retirar_do_lote,TP433196,ok,RM20261106-MER: 3 vias: OC-41440 cancelada em Compras,
+2026-11-06 10:00,agente_analista,acionar_pessoa,,ok,PS04 [normal] (regra (IA corrigida)): TP433196: OC-41440 cancelada em Compras,
+2026-11-06 10:00,tesoureiro,liberar_lote,,ok,"RM20261106-MER: 77 títulos, R$ 889,346.57",
+2026-11-06 14:00,tesoureiro,liberar_lote,,ok,"RM20261106-LIT: 1 títulos, R$ 1,500.00",
+2026-11-09 10:00,agente_conciliador,retirar_do_lote,TP428844,ok,"RM20261109-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-09 10:00,agente_analista,solicitar_aprovacao,TP428844,aprovado,cancelar_titulo por aprovador: duplicidade: obrigação já paga/reservada,['obrigação NF|85779751|11045|3 já consumida pelo título TP428552']
+2026-11-09 10:00,agente_analista,cancelar_titulo,TP428844,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|85779751|11045|3 já consumida pelo título TP428552']
+2026-11-09 10:00,agente_conciliador,retirar_do_lote,TP428909,ok,"RM20261109-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-09 10:00,agente_analista,solicitar_aprovacao,TP428909,aprovado,cancelar_titulo por aprovador: duplicidade: obrigação já paga/reservada,['obrigação NF|85779751|11079|3 já consumida pelo título TP428617']
+2026-11-09 10:00,agente_analista,cancelar_titulo,TP428909,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|85779751|11079|3 já consumida pelo título TP428617']
+2026-11-09 10:00,agente_conciliador,retirar_do_lote,TP428928,ok,"RM20261109-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-09 10:00,agente_analista,solicitar_aprovacao,TP428928,aprovado,cancelar_titulo por aprovador: duplicidade: obrigação já paga/reservada,['obrigação NF|13030916|93929|3 já consumida pelo título TP428707']
+2026-11-09 10:00,agente_analista,cancelar_titulo,TP428928,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|13030916|93929|3 já consumida pelo título TP428707']
+2026-11-09 10:00,agente_conciliador,retirar_do_lote,TP430389,ok,"RM20261109-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-09 10:00,agente_analista,cancelar_titulo,TP430389,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|52759405|20341|2 já consumida pelo título TP430116']
+2026-11-09 10:00,agente_conciliador,retirar_do_lote,TP431536,ok,RM20261109-MER: livro=VALOR_ACIMA; destino=OK: dados bancários originais do cadastro,
+2026-11-09 10:00,agente_analista,solicitar_aprovacao,TP431536,aprovado,"corrigir_lancamento por aprovador: valor digitado R$ 7,671.20 acima da duplicata",['duplicata NF|98998333|63473|2 = R$ 767.12']
+2026-11-09 10:00,agente_analista,corrigir_lancamento,TP431536,ok,"valor: 7671.2 -> 767.12 (valor digitado R$ 7,671.20 acima da duplicata)",['duplicata NF|98998333|63473|2 = R$ 767.12']
+2026-11-09 10:00,agente_analista,agendar_titulo,TP431536,ok,RM20261109-MER,
+2026-11-09 10:00,agente_conciliador,retirar_do_lote,TP432126,ok,"RM20261109-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-09 10:00,agente_analista,cancelar_titulo,TP432126,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|27080090|32481|1 já consumida pelo título TP431984']
+2026-11-09 10:00,agente_conciliador,retirar_do_lote,TP432865,ok,"RM20261109-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-09 10:00,agente_analista,solicitar_aprovacao,TP432865,aprovado,"cancelar_titulo por aprovador+PS03: já pago fora do lote, sem baixa no ERP","[""obrigação NF|72632502|82347|1 paga conforme extrato LIT 2026-10-29 'PAG BOL 612 RAPIDO SUL TRANSPO'""]"
+2026-11-09 10:00,agente_analista,cancelar_titulo,TP432865,ok,"já pago fora do lote, sem baixa no ERP","[""obrigação NF|72632502|82347|1 paga conforme extrato LIT 2026-10-29 'PAG BOL 612 RAPIDO SUL TRANSPO'""]"
+2026-11-09 10:00,agente_analista,acionar_pessoa,,ok,PS02 [alta] (regra (IA corrigida)): pagamento manual sem baixa no ERP: TP432865 (extrato LIT 2026-10-29 'PAG BOL 612 RAPIDO SUL TRANSPO'). Dar baixa no mesmo dia.,
+2026-11-09 10:00,tesoureiro,liberar_lote,,ok,"RM20261109-MER: 104 títulos, R$ 1,168,316.06",
+2026-11-09 14:00,agente_conciliador,solicitar_aprovacao,TP433074,aprovado,agendar_titulo por aprovador+PS01: pagamento sem OC aprovada (política: aprovação dupla),"[""OC-41494 está 'pendente_aprovacao'"", 'obrigação NF|79558476|94409|1 aberta', 'boleto do fornecedor, banco habitual, valor confere']"
+2026-11-09 14:00,tesoureiro,liberar_lote,,ok,"RM20261109-LIT: 3 títulos, R$ 14,193.79",
+2026-11-10 10:00,agente_conciliador,retirar_do_lote,TP432337,ok,RM20261110-MER: livro=SEM_OBRIGACAO; destino=OK: confirmada por ligação ao telefone anterior,
+2026-11-10 10:00,agente_analista,contatar_fornecedor,,ok,via email confiável financeiro@polyfilmbrasil.com (email original do cadastro): Não localizamos a NF 000036431 no portal. Pode reenviar o XML?,
+2026-11-10 10:00,agente_analista,acionar_pessoa,,ok,PS05 [normal] (regra (IA corrigida)): título TP432337 sem NF/contrato correspondente,
+2026-11-10 10:00,agente_conciliador,retirar_do_lote,TP432669,ok,"RM20261110-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-10 10:00,agente_analista,cancelar_titulo,TP432669,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|92385683|73535|1 já consumida pelo título TP432169']
+2026-11-10 10:00,agente_conciliador,retirar_do_lote,TP432992,ok,"RM20261110-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-10 10:00,agente_analista,solicitar_aprovacao,TP432992,aprovado,"cancelar_titulo por aprovador+PS03: já pago fora do lote, sem baixa no ERP","[""obrigação NF|97776852|59821|1 paga conforme extrato LIT 2026-10-30 'PAG BOL 551 EXPRESSA JA TRANSP'""]"
+2026-11-10 10:00,agente_analista,cancelar_titulo,TP432992,ok,"já pago fora do lote, sem baixa no ERP","[""obrigação NF|97776852|59821|1 paga conforme extrato LIT 2026-10-30 'PAG BOL 551 EXPRESSA JA TRANSP'""]"
+2026-11-10 10:00,agente_analista,acionar_pessoa,,ok,PS02 [normal] (regra (IA corrigida)): pagamento manual sem baixa no ERP: TP432992 (extrato LIT 2026-10-30 'PAG BOL 551 EXPRESSA JA TRANSP'). Dar baixa no mesmo dia.,
+2026-11-10 10:00,agente_analista,corrigir_lancamento,TP433092,ok,valor: 445.13 -> 4451.33 (valor digitado abaixo da duplicata),"['duplicata NF|95604820|31845|1 = R$ 4,451.33']"
+2026-11-10 10:00,tesoureiro,liberar_lote,,ok,"RM20261110-MER: 69 títulos, R$ 804,403.88",
+2026-11-10 14:00,tesoureiro,liberar_lote,,ok,"RM20261110-LIT: 2 títulos, R$ 13,224.00",
+2026-11-11 10:00,tesoureiro,liberar_lote,,ok,"RM20261111-MER: 60 títulos, R$ 573,170.15",
+2026-11-11 14:00,tesoureiro,liberar_lote,,ok,"RM20261111-LIT: 1 títulos, R$ 5,131.32",
+2026-11-12 10:00,agente_analista,corrigir_lancamento,TP432245,ok,valor: 277.26 -> 2772.63 (valor digitado abaixo da duplicata),"['duplicata NF|27080090|32505|1 = R$ 2,772.63']"
+2026-11-12 10:00,agente_conciliador,retirar_do_lote,TP432623,ok,"RM20261112-MER: livro=VALOR_ABAIXO; destino=DESTINO_SUSPEITO: ABAIXO: título R$ 1,748.88 menor que o boleto R$ 17,488.78 (pagaria a menos); fornecedor em verificação pelo e-mail EM570996",
+2026-11-12 10:00,agente_analista,contatar_fornecedor,,ok,via email confiável contasareceber@flexipack.com.br (email original do cadastro): Recebemos um boleto com beneficiário diferente do seu cadastro. Pode confirmar o boleto correto?,
+2026-11-12 10:00,agente_analista,acionar_pessoa,,ok,"PS01 [alta] (regra (IA corrigida)): suspeita de boleto adulterado: ABAIXO: título R$ 1,748.88 menor que o boleto R$ 17,488.78 (pagaria a menos); fornecedor em verificação pelo e-mail EM570996",
+2026-11-12 10:00,agente_conciliador,retirar_do_lote,TP432847,ok,"RM20261112-MER: livro=JA_CONSUMIDA; destino=OK: boleto do fornecedor, banco habitual, valor confere",
+2026-11-12 10:00,agente_analista,solicitar_aprovacao,TP432847,aprovado,cancelar_titulo por aprovador: duplicidade: obrigação já paga/reservada,['obrigação NF|38055876|24363|1 já consumida pelo título TP432626']
+2026-11-12 10:00,agente_analista,cancelar_titulo,TP432847,ok,duplicidade: obrigação já paga/reservada,['obrigação NF|38055876|24363|1 já consumida pelo título TP432626']
+2026-11-12 10:00,tesoureiro,liberar_lote,,ok,"RM20261112-MER: 73 títulos, R$ 793,337.16",
+2026-11-12 14:00,tesoureiro,liberar_lote,,ok,"RM20261112-LIT: 1 títulos, R$ 4,737.92",
+2026-11-13 10:00,agente_analista,corrigir_lancamento,TP432136,ok,valor: 311.17 -> 3111.66 (valor digitado abaixo da duplicata),"['duplicata NF|90331547|36595|2 = R$ 3,111.66']"
+2026-11-13 10:00,tesoureiro,liberar_lote,,ok,"RM20261113-MER: 81 títulos, R$ 724,675.07",
+2026-11-13 10:00,agente_conciliador,abrir_incidente,,ok,duplicidade / processo: 13 duplicidades; origens {'boleto_email': 13}. Boleto recebido por e-mail é lançado como título novo mesmo quando a NF já veio pelo XML do portal.,
+2026-11-13 10:00,agente_conciliador,propor_correcao_processo,,enviado ao aprovador,Trava no ERP: lançamento a partir de boleto_email deve localizar o título da mesma NF/parcela (raiz CNPJ + número normalizado) e só vincular a linha digitável.,
+2026-11-13 10:00,agente_conciliador,abrir_incidente,,ok,erro_de_digitacao / operador: usuario_07 concentra 5 erros de valor,
+2026-11-13 10:00,agente_conciliador,abrir_incidente,,ok,"canal_nao_confirmado / cadastro: 4 fornecedores com canal de contato trocado sem confirmação. O agente não usa esses canais até a confirmação por telefone anterior. FP1190: email trocado em 2026-04-22 via email sem confirmação, usar telefone; FP6572: email trocado em 2026-10-22 via email sem confirmação, usar telefone; FP7332: email trocado em 2026-06-01 via email sem confirmação, usar telefone; FP7728: email trocado em 2026-05-21 via email sem confirmação, usar telefone",
+2026-11-13 10:00,agente_conciliador,abrir_incidente,,ok,"fraude_cadastro / canal: troca bancária de FP4615 gravada por usuario_07 a partir de e-mail, sem ligação de confirmação. Bloquear gravação de dados bancários sem confirmação no ERP.",

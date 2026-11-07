@@ -1,0 +1,273 @@
+<title>Motivo · Mensageiro do Contas a Pagar</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Fraunces:opsz,wght@9..144,600&display=swap">
+<style>
+/* Layout: app de mensagens em duas colunas (conversas | conversa), vira uma coluna no celular. */
+:root{
+  --bg:#eef0f2; --panel:#ffffff; --ink:#18212b; --muted:#5d6a77; --line:#d9dee4;
+  --accent:#b8541e; --accent-ink:#ffffff; --accent-soft:#f7e6dc;
+  --bubble-in:#ffffff; --bubble-out:#1f3a4d; --bubble-out-ink:#f2f6f9; --chatbg:#e4e8ec;
+  --ok:#1d7a4d; --ok-soft:#dcefe5; --warn:#a15c00; --warn-soft:#fbecd6; --bad:#b3261e; --bad-soft:#f8dedc;
+  --agent-c:#2f5d8a; --agent-a:#7a4a9e;
+  --f-display:"Fraunces",Georgia,serif; --f-body:"IBM Plex Sans",system-ui,sans-serif; --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f151b; --panel:#151d25; --ink:#e3e9ef; --muted:#93a1ae; --line:#26323d;
+  --accent:#e07a43; --accent-ink:#1a0d05; --accent-soft:#3a2416;
+  --bubble-in:#1c2630; --bubble-out:#2b5470; --bubble-out-ink:#eef4f8; --chatbg:#0c1217;
+  --ok:#5cc28f; --ok-soft:#173326; --warn:#e3a14a; --warn-soft:#3a2a12; --bad:#ef7b72; --bad-soft:#3a1715;
+  --agent-c:#79aee0; --agent-a:#c39ae6; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f151b; --panel:#151d25; --ink:#e3e9ef; --muted:#93a1ae; --line:#26323d;
+  --accent:#e07a43; --accent-ink:#1a0d05; --accent-soft:#3a2416;
+  --bubble-in:#1c2630; --bubble-out:#2b5470; --bubble-out-ink:#eef4f8; --chatbg:#0c1217;
+  --ok:#5cc28f; --ok-soft:#173326; --warn:#e3a14a; --warn-soft:#3a2a12; --bad:#ef7b72; --bad-soft:#3a1715;
+  --agent-c:#79aee0; --agent-a:#c39ae6; color-scheme:dark}
+html,body{height:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:14px;line-height:1.45;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:12px;box-sizing:border-box}
+*{box-sizing:border-box}
+button{font:inherit;cursor:pointer}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.app{max-width:1180px;margin:0 auto;height:100%;display:flex;flex-direction:column;gap:10px}
+.topo{display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px}
+.marca{font-family:var(--f-display);font-size:20px;letter-spacing:-.01em}
+.sim{font-size:12px;color:var(--muted);flex:1 1 300px;min-width:0}
+.sim b{color:var(--warn);font-weight:600;text-transform:uppercase;letter-spacing:.06em;font-size:11px;margin-right:6px}
+.resumo{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font-family:var(--f-mono);font-size:12px;padding:3px 8px;border-radius:999px;background:var(--panel);border:1px solid var(--line);font-variant-numeric:tabular-nums;white-space:nowrap}
+.controles{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.controles .rot{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-right:2px}
+.dia{border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:4px 9px;border-radius:6px;font-family:var(--f-mono);font-size:12px}
+.dia[aria-pressed="true"]{background:var(--ink);color:var(--panel);border-color:var(--ink)}
+.btn{border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:5px 11px;border-radius:6px;font-size:13px}
+.btn.prim{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.janela{flex:1;min-height:0;display:grid;grid-template-columns:330px 1fr;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--panel)}
+.lista{border-right:1px solid var(--line);overflow-y:auto;min-width:0}
+.grupo-tit{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);padding:12px 14px 4px}
+.conv{display:grid;grid-template-columns:38px 1fr auto;gap:10px;align-items:center;width:100%;text-align:left;border:0;background:none;color:inherit;padding:9px 14px;border-bottom:1px solid var(--line)}
+.conv[aria-current="true"]{background:var(--accent-soft)}
+.av{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;font-weight:600;font-size:13px;color:#fff;background:var(--muted)}
+.av.agentes{background:linear-gradient(135deg,var(--agent-c),var(--agent-a))}
+.av.fornecedor{background:var(--warn)}
+.conv .nome{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.conv .prev{color:var(--muted);font-size:12.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.conv .meio{min-width:0}
+.conv .lado{display:flex;flex-direction:column;align-items:flex-end;gap:4px;font-size:11px;color:var(--muted);font-family:var(--f-mono)}
+.badge{background:var(--accent);color:var(--accent-ink);border-radius:999px;padding:0 6px;font-size:11px;min-width:18px;text-align:center;font-weight:600}
+.badge.pend{background:var(--bad)}
+.chat{display:flex;flex-direction:column;min-width:0;min-height:0;background:var(--chatbg)}
+.chat-top{display:flex;align-items:center;gap:10px;padding:10px 14px;background:var(--panel);border-bottom:1px solid var(--line)}
+.chat-top .nome{font-weight:600}
+.chat-top .sub{font-size:12px;color:var(--muted)}
+.voltar{display:none;border:0;background:none;color:var(--ink);font-size:20px;padding:0 6px}
+.msgs{flex:1;overflow-y:auto;padding:14px;display:flex;flex-direction:column;gap:8px}
+.sep{align-self:center;font-family:var(--f-mono);font-size:11px;color:var(--muted);background:var(--panel);border:1px solid var(--line);padding:2px 10px;border-radius:999px;margin:6px 0}
+.b{max-width:min(560px,86%);padding:8px 11px 6px;border-radius:10px;background:var(--bubble-in);box-shadow:0 1px 0 rgba(0,0,0,.06);min-width:0;overflow-wrap:anywhere}
+.b.out{align-self:flex-end;background:var(--bubble-out);color:var(--bubble-out-ink)}
+.b .quem{font-size:12px;font-weight:600;margin-bottom:2px}
+.quem.Conciliador{color:var(--agent-c)} .quem.Analista{color:var(--agent-a)}
+.b .hora{font-family:var(--f-mono);font-size:10.5px;opacity:.65;text-align:right;margin-top:3px}
+.b.urg{border-left:3px solid var(--bad)}
+.b.feito .quem::after{content:" · executou";color:var(--ok);font-weight:500}
+.b.feito.espera .quem::after{content:" · aguardando aprovação humana";color:var(--warn)}
+.b.feito.barrado .quem::after{content:" · não executou: aprovação recusada";color:var(--bad)}
+.b.feito.espera,.b.feito.barrado{opacity:.75}
+.pedido{margin-top:6px;border:1px solid var(--line);border-radius:8px;padding:8px 10px;background:var(--panel);display:grid;gap:4px}
+.pedido .acao{font-weight:600}
+.pedido .valor{font-family:var(--f-mono);font-size:16px;font-variant-numeric:tabular-nums}
+.pedido .alvo,.pedido .motivo{font-size:12.5px;color:var(--muted)}
+.pedido ul{margin:2px 0 0;padding-left:16px;font-size:12px;font-family:var(--f-mono);color:var(--muted)}
+.dupla{font-size:11.5px;color:var(--warn);background:var(--warn-soft);padding:2px 7px;border-radius:5px;justify-self:start}
+.acoes{display:flex;gap:6px;margin-top:6px;flex-wrap:wrap}
+.acoes .ok{background:var(--ok);color:#fff;border-color:var(--ok)}
+.acoes .no{background:var(--panel);color:var(--bad);border-color:var(--bad)}
+.estado{font-size:12px;font-weight:600;padding:2px 8px;border-radius:5px;justify-self:start;margin-top:4px}
+.estado.aprovado{color:var(--ok);background:var(--ok-soft)} .estado.recusado{color:var(--bad);background:var(--bad-soft)}
+.tag-sim{font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--warn)}
+.canal{font-family:var(--f-mono);font-size:11px;opacity:.7;margin-top:3px}
+.digitando{align-self:flex-start;font-size:12px;color:var(--muted);font-style:italic;padding:4px 8px}
+.vazio{margin:auto;color:var(--muted);text-align:center;max-width:320px}
+@media (max-width:760px){
+  .janela{grid-template-columns:1fr}
+  .janela.aberto .lista{display:none}
+  .janela:not(.aberto) .chat{display:none}
+  .voltar{display:block}
+}
+@media (prefers-reduced-motion:no-preference){.b.novo{animation:entra .25s ease-out}}
+@keyframes entra{from{transform:translateY(6px);opacity:.3}to{transform:none;opacity:1}}
+</style>
+
+<div class="app">
+  <div class="topo">
+    <div class="marca"><b style="color:#2559a5">Motivo</b> · Mensageiro do Contas a Pagar</div>
+    <div class="sim"><b>Simulação</b>Mensagens geradas a partir do log real dos agentes sobre a base fictícia do desafio. Você responde como as pessoas da empresa.</div>
+    <div class="resumo" id="resumo"></div>
+  </div>
+  <div class="controles">
+    <span class="rot">Semana</span><span id="dias" class="controles"></span>
+    <button class="btn prim" id="prox">Próxima mensagem</button>
+    <button class="btn" id="tudo">Mostrar tudo</button>
+  </div>
+  <div class="janela" id="janela">
+    <nav class="lista" id="lista" aria-label="Conversas"></nav>
+    <section class="chat" aria-live="polite">
+      <div class="chat-top"><button class="voltar" id="voltar" aria-label="Voltar para conversas">‹</button>
+        <div class="av" id="c-av"></div><div><div class="nome" id="c-nome"></div><div class="sub" id="c-sub"></div></div></div>
+      <div class="msgs" id="msgs"></div>
+    </section>
+  </div>
+</div>
+
+<script type="application/json" id="dados">__DADOS__</script>
+<script>
+const D = JSON.parse(document.getElementById('dados').textContent);
+const ev = D.eventos;
+// hora de exibição: mensagens de um lote chegam nos minutos antes do fechamento
+const porQuando = {};
+ev.forEach(e => (porQuando[e.quando] ||= []).push(e));
+Object.values(porQuando).forEach(g => g.forEach((e, i) => {
+  const [dt, hm] = e.quando.split(' '); let [h, m] = hm.split(':').map(Number);
+  let t = h * 60 + m - Math.max(1, Math.round((g.length - i) * 40 / g.length));
+  e.data = dt; e.hora = String(Math.floor(t / 60)).padStart(2, '0') + ':' + String(t % 60).padStart(2, '0');
+}));
+const dias = [...new Set(ev.map(e => e.data))];
+// ação executada que dependia de aprovação: liga ao(s) pedido(s) do mesmo título ou fornecedor
+ev.forEach(e => {
+  if (!e.feito) return;
+  const ref = (e.texto.match(/TP\d+|FP\d+/) || [])[0];
+  e.dep = ref ? ev.filter(p => p.pedido && p.id < e.id && p.id > e.id - 12 && p.pedido.alvo.includes(ref)).map(p => p.id) : [];
+});
+const S = { visiveis: ev.filter(e => e.data === dias[0]).length, chat: 'equipe', decis: {}, extra: {}, lidos: {} };
+const fmtDia = d => d.slice(8, 10) + '/' + d.slice(5, 7);
+const ini = n => n.split(/\s+/).filter(w => w.length > 1 && w !== '+').slice(0, 2).map(w => w[0]).join('').toUpperCase();
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+document.getElementById('resumo').innerHTML = [
+  `${D.resumo.titulos} títulos na fila`, `${D.resumo.seguiram} seguiram sozinhos`,
+  `${D.resumo.excecoes} exceções`, `${D.resumo.acionamentos} pessoas acionadas`].map(t => `<span class="chip">${t}</span>`).join('');
+
+function visiveis() { return ev.slice(0, S.visiveis); }
+function pendentes(chat) { return visiveis().filter(e => e.chat === chat && (e.pedido || e.lote) && !S.decis[e.id]).length; }
+
+function renderDias() {
+  const atual = (ev[S.visiveis - 1] || ev[0]).data;
+  document.getElementById('dias').innerHTML = dias.map(d =>
+    `<button class="dia" aria-pressed="${d === atual}" data-d="${d}">${fmtDia(d)}</button>`).join('');
+}
+document.getElementById('dias').addEventListener('click', e => {
+  const d = e.target.dataset.d; if (!d) return;
+  S.visiveis = ev.filter(x => x.data <= d).length; render();
+});
+document.getElementById('prox').onclick = () => {
+  if (S.visiveis < ev.length) { S.visiveis++; S.chat = ev[S.visiveis - 1].chat; S.novo = ev[S.visiveis - 1].id; render(true); }
+};
+document.getElementById('tudo').onclick = () => { S.visiveis = ev.length; render(); };
+document.getElementById('voltar').onclick = () => document.getElementById('janela').classList.remove('aberto');
+
+function renderLista() {
+  const vis = visiveis();
+  const grupos = { agentes: 'Agentes', pessoa: 'Pessoas da empresa', fornecedor: 'Fornecedores' };
+  let html = '';
+  for (const [tipo, rot] of Object.entries(grupos)) {
+    const ids = Object.keys(D.chats).filter(k => D.chats[k].tipo === tipo && vis.some(e => e.chat === k));
+    if (!ids.length) continue;
+    ids.sort((a, b) => vis.findLastIndex(e => e.chat === b) - vis.findLastIndex(e => e.chat === a));
+    html += `<div class="grupo-tit">${rot}</div>`;
+    for (const k of ids) {
+      const c = D.chats[k], ult = vis.filter(e => e.chat === k).at(-1);
+      const nao = vis.filter(e => e.chat === k && e.id > (S.lidos[k] || 0)).length;
+      const pend = pendentes(k);
+      html += `<button class="conv" data-c="${k}" aria-current="${k === S.chat}">
+        <span class="av ${c.tipo}">${ini(c.nome)}</span>
+        <span class="meio"><div class="nome">${esc(c.nome)}</div><div class="prev">${esc(ult.autor)}: ${esc(ult.texto)}</div></span>
+        <span class="lado">${fmtDia(ult.data)} ${ult.hora}${pend ? `<span class="badge pend" title="aguardando sua decisão">${pend}</span>` : nao && k !== S.chat ? `<span class="badge">${nao}</span>` : ''}</span>
+      </button>`;
+    }
+  }
+  const l = document.getElementById('lista'); l.innerHTML = html;
+}
+document.getElementById('lista').addEventListener('click', e => {
+  const b = e.target.closest('.conv'); if (!b) return;
+  S.chat = b.dataset.c; document.getElementById('janela').classList.add('aberto'); render();
+});
+
+function bolha(e) {
+  const c = D.chats[e.chat];
+  let corpo = `<div class="quem ${e.autor}">${esc(e.autor)}</div><div>${esc(e.texto)}</div>`;
+  if (e.canal) corpo += `<div class="canal">enviado pelo canal do cadastro: ${esc(e.canal)}</div>`;
+  if (e.pedido) {
+    const p = e.pedido, dec = S.decis[e.id];
+    corpo += `<div class="pedido"><div class="acao">${esc(p.acao)}</div><div class="valor">${esc(p.valor)}</div>
+      <div class="alvo">${esc(p.alvo)}</div><div class="motivo">Motivo: ${esc(p.motivo)}</div>
+      <ul>${p.evidencias.map(x => `<li>${esc(x)}</li>`).join('')}</ul>
+      ${p.dupla ? `<span class="dupla">Aprovação dupla: também precisa de ${esc(p.outros.join(', '))}</span>` : ''}
+      ${dec ? `<span class="estado ${dec}">${dec === 'aprovado' ? 'Você aprovou' : 'Você recusou'}</span>` :
+        `<div class="acoes"><button class="btn ok" data-ap="${e.id}">Aprovar</button><button class="btn no" data-rec="${e.id}">Recusar</button></div>`}</div>`;
+  }
+  if (e.lote) {
+    const dec = S.decis[e.id];
+    corpo += dec ? `<span class="estado aprovado">Você assinou o lote</span>` :
+      `<div class="acoes"><button class="btn ok" data-ass="${e.id}">Assinar lote</button></div>`;
+  }
+  if (e.chat.startsWith('F:') && !S.extra['f' + e.id])
+    corpo += `<div class="acoes"><button class="btn" data-resp="${e.id}">Simular resposta do fornecedor</button></div>`;
+  let dep = '';
+  if (e.dep && e.dep.length) dep = e.dep.some(i => S.decis[i] === 'recusado') ? 'barrado' : e.dep.every(i => S.decis[i] === 'aprovado') ? '' : 'espera';
+  const cls = ['b', e.urgente ? 'urg' : '', e.feito ? 'feito' : '', dep, S.novo === e.id ? 'novo' : ''].join(' ');
+  return `<div class="${cls}">${corpo}<div class="hora">${e.hora}</div></div>`;
+}
+function bolhaExtra(x) {
+  return `<div class="b ${x.out ? 'out' : ''}">${x.autor ? `<div class="quem ${x.autor}">${esc(x.autor)}</div>` : ''}
+    ${x.sim ? '<div class="tag-sim">resposta simulada</div>' : ''}<div>${esc(x.texto)}</div><div class="hora">${x.hora}</div></div>`;
+}
+function renderChat(rolar) {
+  const c = D.chats[S.chat];
+  document.getElementById('c-av').className = 'av ' + c.tipo; document.getElementById('c-av').textContent = ini(c.nome);
+  document.getElementById('c-nome').textContent = c.nome; document.getElementById('c-sub').textContent = c.sub;
+  const lista = visiveis().filter(e => e.chat === S.chat);
+  let html = '', ultDia = '';
+  for (const e of lista) {
+    if (e.data !== ultDia) { html += `<div class="sep">${fmtDia(e.data)}</div>`; ultDia = e.data; }
+    html += bolha(e);
+    (S.extra[e.id] || []).forEach(x => html += bolhaExtra(x));
+    if (S.extra['f' + e.id]) html += bolhaExtra(S.extra['f' + e.id]);
+  }
+  const m = document.getElementById('msgs');
+  m.innerHTML = html || `<p class="vazio">Nenhuma mensagem ainda nesta conversa. Avance a semana para ver o que os agentes fazem.</p>`;
+  if (lista.length) S.lidos[S.chat] = lista.at(-1).id;
+  if (rolar !== false) m.scrollTop = m.scrollHeight;
+}
+function render(rolar) { renderDias(); renderChat(rolar); renderLista(); }
+
+function responder(id, saida, retorno) {
+  const e = ev.find(x => x.id === id);
+  S.extra[id] = [{ out: true, texto: saida, hora: e.hora }];
+  render();
+  const m = document.getElementById('msgs');
+  m.insertAdjacentHTML('beforeend', '<div class="digitando">' + (e.autor) + ' está digitando…</div>'); m.scrollTop = m.scrollHeight;
+  setTimeout(() => { S.extra[id].push({ autor: e.autor, texto: retorno, hora: e.hora }); render(); }, 700);
+}
+document.getElementById('msgs').addEventListener('click', ev2 => {
+  const t = ev2.target, id = +(t.dataset.ap || t.dataset.rec || t.dataset.ass || t.dataset.resp || 0);
+  if (!id) return;
+  const e = ev.find(x => x.id === id);
+  if (t.dataset.ap) {
+    S.decis[id] = 'aprovado';
+    const falta = e.pedido.dupla ? ` Ainda aguardo a segunda aprovação (${e.pedido.outros.join(', ')}).` : '';
+    responder(id, 'Aprovado.', `Obrigado. Registrei sua aprovação com as evidências.${falta || ' Ação executada no ERP.'}`);
+  } else if (t.dataset.rec) {
+    S.decis[id] = 'recusado';
+    responder(id, 'Recusado.', 'Entendido. Não executei a ação; o título continua fora do lote e registrei sua decisão no log de auditoria.');
+  } else if (t.dataset.ass) {
+    S.decis[id] = 'aprovado';
+    responder(id, 'Assinado.', 'Lote enviado ao banco no horário de fechamento. Só saiu o que tinha obrigação aberta e destino confiável.');
+  } else if (t.dataset.resp) {
+    const txt = D.respostas_fornecedor[e.chat] || 'Recebido, vamos verificar e retornamos.';
+    S.extra['f' + id] = { texto: txt, hora: e.hora, sim: true };
+    render();
+  }
+});
+render();
+</script>
